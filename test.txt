@@ -1,0 +1,1647 @@
+Stan tasmy: a a a a a a a a a a a a a a a a a a a a # # # # # # # # # # # # 
+            ^
+Stan tasmy: b a a a a a a a a a a a a a a a a a a a # # # # # # # # # # # # 
+              ^
+Stan tasmy: b a a a a a a a a a a a a a a a a a a a # # # # # # # # # # # # 
+                ^
+Stan tasmy: b a a a a a a a a a a a a a a a a a a a # # # # # # # # # # # # 
+                  ^
+Stan tasmy: b a a a a a a a a a a a a a a a a a a a # # # # # # # # # # # # 
+                    ^
+Stan tasmy: b a a a a a a a a a a a a a a a a a a a # # # # # # # # # # # # 
+                      ^
+Stan tasmy: b a a a a a a a a a a a a a a a a a a a # # # # # # # # # # # # 
+                        ^
+Stan tasmy: b a a a a a a a a a a a a a a a a a a a # # # # # # # # # # # # 
+                          ^
+Stan tasmy: b a a a a a a a a a a a a a a a a a a a # # # # # # # # # # # # 
+                            ^
+Stan tasmy: b a a a a a a a a a a a a a a a a a a a # # # # # # # # # # # # 
+                              ^
+Stan tasmy: b a a a a a a a a a a a a a a a a a a a # # # # # # # # # # # # 
+                                ^
+Stan tasmy: b a a a a a a a a a a a a a a a a a a a # # # # # # # # # # # # 
+                                  ^
+Stan tasmy: b a a a a a a a a a a a a a a a a a a a # # # # # # # # # # # # 
+                                    ^
+Stan tasmy: b a a a a a a a a a a a a a a a a a a a # # # # # # # # # # # # 
+                                      ^
+Stan tasmy: b a a a a a a a a a a a a a a a a a a a # # # # # # # # # # # # 
+                                        ^
+Stan tasmy: b a a a a a a a a a a a a a a a a a a a # # # # # # # # # # # # 
+                                          ^
+Stan tasmy: b a a a a a a a a a a a a a a a a a a a # # # # # # # # # # # # 
+                                            ^
+Stan tasmy: b a a a a a a a a a a a a a a a a a a a # # # # # # # # # # # # 
+                                              ^
+Stan tasmy: b a a a a a a a a a a a a a a a a a a a # # # # # # # # # # # # 
+                                                ^
+Stan tasmy: b a a a a a a a a a a a a a a a a a a a # # # # # # # # # # # # 
+                                                  ^
+Stan tasmy: b a a a a a a a a a a a a a a a a a a a # # # # # # # # # # # # 
+                                                    ^
+Stan tasmy: b a a a a a a a a a a a a a a a a a a a c # # # # # # # # # # # 
+                                                  ^
+Stan tasmy: b a a a a a a a a a a a a a a a a a a a c # # # # # # # # # # # 
+                                                ^
+Stan tasmy: b a a a a a a a a a a a a a a a a a a a c # # # # # # # # # # # 
+                                              ^
+Stan tasmy: b a a a a a a a a a a a a a a a a a a a c # # # # # # # # # # # 
+                                            ^
+Stan tasmy: b a a a a a a a a a a a a a a a a a a a c # # # # # # # # # # # 
+                                          ^
+Stan tasmy: b a a a a a a a a a a a a a a a a a a a c # # # # # # # # # # # 
+                                        ^
+Stan tasmy: b a a a a a a a a a a a a a a a a a a a c # # # # # # # # # # # 
+                                      ^
+Stan tasmy: b a a a a a a a a a a a a a a a a a a a c # # # # # # # # # # # 
+                                    ^
+Stan tasmy: b a a a a a a a a a a a a a a a a a a a c # # # # # # # # # # # 
+                                  ^
+Stan tasmy: b a a a a a a a a a a a a a a a a a a a c # # # # # # # # # # # 
+                                ^
+Stan tasmy: b a a a a a a a a a a a a a a a a a a a c # # # # # # # # # # # 
+                              ^
+Stan tasmy: b a a a a a a a a a a a a a a a a a a a c # # # # # # # # # # # 
+                            ^
+Stan tasmy: b a a a a a a a a a a a a a a a a a a a c # # # # # # # # # # # 
+                          ^
+Stan tasmy: b a a a a a a a a a a a a a a a a a a a c # # # # # # # # # # # 
+                        ^
+Stan tasmy: b a a a a a a a a a a a a a a a a a a a c # # # # # # # # # # # 
+                      ^
+Stan tasmy: b a a a a a a a a a a a a a a a a a a a c # # # # # # # # # # # 
+                    ^
+Stan tasmy: b a a a a a a a a a a a a a a a a a a a c # # # # # # # # # # # 
+                  ^
+Stan tasmy: b a a a a a a a a a a a a a a a a a a a c # # # # # # # # # # # 
+                ^
+Stan tasmy: b a a a a a a a a a a a a a a a a a a a c # # # # # # # # # # # 
+              ^
+Stan tasmy: b a a a a a a a a a a a a a a a a a a a c # # # # # # # # # # # 
+            ^
+Stan tasmy: b a a a a a a a a a a a a a a a a a a a c # # # # # # # # # # # 
+              ^
+Stan tasmy: b b a a a a a a a a a a a a a a a a a a c # # # # # # # # # # # 
+                ^
+Stan tasmy: b b a a a a a a a a a a a a a a a a a a c # # # # # # # # # # # 
+                  ^
+Stan tasmy: b b a a a a a a a a a a a a a a a a a a c # # # # # # # # # # # 
+                    ^
+Stan tasmy: b b a a a a a a a a a a a a a a a a a a c # # # # # # # # # # # 
+                      ^
+Stan tasmy: b b a a a a a a a a a a a a a a a a a a c # # # # # # # # # # # 
+                        ^
+Stan tasmy: b b a a a a a a a a a a a a a a a a a a c # # # # # # # # # # # 
+                          ^
+Stan tasmy: b b a a a a a a a a a a a a a a a a a a c # # # # # # # # # # # 
+                            ^
+Stan tasmy: b b a a a a a a a a a a a a a a a a a a c # # # # # # # # # # # 
+                              ^
+Stan tasmy: b b a a a a a a a a a a a a a a a a a a c # # # # # # # # # # # 
+                                ^
+Stan tasmy: b b a a a a a a a a a a a a a a a a a a c # # # # # # # # # # # 
+                                  ^
+Stan tasmy: b b a a a a a a a a a a a a a a a a a a c # # # # # # # # # # # 
+                                    ^
+Stan tasmy: b b a a a a a a a a a a a a a a a a a a c # # # # # # # # # # # 
+                                      ^
+Stan tasmy: b b a a a a a a a a a a a a a a a a a a c # # # # # # # # # # # 
+                                        ^
+Stan tasmy: b b a a a a a a a a a a a a a a a a a a c # # # # # # # # # # # 
+                                          ^
+Stan tasmy: b b a a a a a a a a a a a a a a a a a a c # # # # # # # # # # # 
+                                            ^
+Stan tasmy: b b a a a a a a a a a a a a a a a a a a c # # # # # # # # # # # 
+                                              ^
+Stan tasmy: b b a a a a a a a a a a a a a a a a a a c # # # # # # # # # # # 
+                                                ^
+Stan tasmy: b b a a a a a a a a a a a a a a a a a a c # # # # # # # # # # # 
+                                                  ^
+Stan tasmy: b b a a a a a a a a a a a a a a a a a a c # # # # # # # # # # # 
+                                                    ^
+Stan tasmy: b b a a a a a a a a a a a a a a a a a a c # # # # # # # # # # # 
+                                                      ^
+Stan tasmy: b b a a a a a a a a a a a a a a a a a a c c # # # # # # # # # # 
+                                                    ^
+Stan tasmy: b b a a a a a a a a a a a a a a a a a a c c # # # # # # # # # # 
+                                                  ^
+Stan tasmy: b b a a a a a a a a a a a a a a a a a a c c # # # # # # # # # # 
+                                                ^
+Stan tasmy: b b a a a a a a a a a a a a a a a a a a c c # # # # # # # # # # 
+                                              ^
+Stan tasmy: b b a a a a a a a a a a a a a a a a a a c c # # # # # # # # # # 
+                                            ^
+Stan tasmy: b b a a a a a a a a a a a a a a a a a a c c # # # # # # # # # # 
+                                          ^
+Stan tasmy: b b a a a a a a a a a a a a a a a a a a c c # # # # # # # # # # 
+                                        ^
+Stan tasmy: b b a a a a a a a a a a a a a a a a a a c c # # # # # # # # # # 
+                                      ^
+Stan tasmy: b b a a a a a a a a a a a a a a a a a a c c # # # # # # # # # # 
+                                    ^
+Stan tasmy: b b a a a a a a a a a a a a a a a a a a c c # # # # # # # # # # 
+                                  ^
+Stan tasmy: b b a a a a a a a a a a a a a a a a a a c c # # # # # # # # # # 
+                                ^
+Stan tasmy: b b a a a a a a a a a a a a a a a a a a c c # # # # # # # # # # 
+                              ^
+Stan tasmy: b b a a a a a a a a a a a a a a a a a a c c # # # # # # # # # # 
+                            ^
+Stan tasmy: b b a a a a a a a a a a a a a a a a a a c c # # # # # # # # # # 
+                          ^
+Stan tasmy: b b a a a a a a a a a a a a a a a a a a c c # # # # # # # # # # 
+                        ^
+Stan tasmy: b b a a a a a a a a a a a a a a a a a a c c # # # # # # # # # # 
+                      ^
+Stan tasmy: b b a a a a a a a a a a a a a a a a a a c c # # # # # # # # # # 
+                    ^
+Stan tasmy: b b a a a a a a a a a a a a a a a a a a c c # # # # # # # # # # 
+                  ^
+Stan tasmy: b b a a a a a a a a a a a a a a a a a a c c # # # # # # # # # # 
+                ^
+Stan tasmy: b b a a a a a a a a a a a a a a a a a a c c # # # # # # # # # # 
+              ^
+Stan tasmy: b b a a a a a a a a a a a a a a a a a a c c # # # # # # # # # # 
+                ^
+Stan tasmy: b b b a a a a a a a a a a a a a a a a a c c # # # # # # # # # # 
+                  ^
+Stan tasmy: b b b a a a a a a a a a a a a a a a a a c c # # # # # # # # # # 
+                    ^
+Stan tasmy: b b b a a a a a a a a a a a a a a a a a c c # # # # # # # # # # 
+                      ^
+Stan tasmy: b b b a a a a a a a a a a a a a a a a a c c # # # # # # # # # # 
+                        ^
+Stan tasmy: b b b a a a a a a a a a a a a a a a a a c c # # # # # # # # # # 
+                          ^
+Stan tasmy: b b b a a a a a a a a a a a a a a a a a c c # # # # # # # # # # 
+                            ^
+Stan tasmy: b b b a a a a a a a a a a a a a a a a a c c # # # # # # # # # # 
+                              ^
+Stan tasmy: b b b a a a a a a a a a a a a a a a a a c c # # # # # # # # # # 
+                                ^
+Stan tasmy: b b b a a a a a a a a a a a a a a a a a c c # # # # # # # # # # 
+                                  ^
+Stan tasmy: b b b a a a a a a a a a a a a a a a a a c c # # # # # # # # # # 
+                                    ^
+Stan tasmy: b b b a a a a a a a a a a a a a a a a a c c # # # # # # # # # # 
+                                      ^
+Stan tasmy: b b b a a a a a a a a a a a a a a a a a c c # # # # # # # # # # 
+                                        ^
+Stan tasmy: b b b a a a a a a a a a a a a a a a a a c c # # # # # # # # # # 
+                                          ^
+Stan tasmy: b b b a a a a a a a a a a a a a a a a a c c # # # # # # # # # # 
+                                            ^
+Stan tasmy: b b b a a a a a a a a a a a a a a a a a c c # # # # # # # # # # 
+                                              ^
+Stan tasmy: b b b a a a a a a a a a a a a a a a a a c c # # # # # # # # # # 
+                                                ^
+Stan tasmy: b b b a a a a a a a a a a a a a a a a a c c # # # # # # # # # # 
+                                                  ^
+Stan tasmy: b b b a a a a a a a a a a a a a a a a a c c # # # # # # # # # # 
+                                                    ^
+Stan tasmy: b b b a a a a a a a a a a a a a a a a a c c # # # # # # # # # # 
+                                                      ^
+Stan tasmy: b b b a a a a a a a a a a a a a a a a a c c # # # # # # # # # # 
+                                                        ^
+Stan tasmy: b b b a a a a a a a a a a a a a a a a a c c c # # # # # # # # # 
+                                                      ^
+Stan tasmy: b b b a a a a a a a a a a a a a a a a a c c c # # # # # # # # # 
+                                                    ^
+Stan tasmy: b b b a a a a a a a a a a a a a a a a a c c c # # # # # # # # # 
+                                                  ^
+Stan tasmy: b b b a a a a a a a a a a a a a a a a a c c c # # # # # # # # # 
+                                                ^
+Stan tasmy: b b b a a a a a a a a a a a a a a a a a c c c # # # # # # # # # 
+                                              ^
+Stan tasmy: b b b a a a a a a a a a a a a a a a a a c c c # # # # # # # # # 
+                                            ^
+Stan tasmy: b b b a a a a a a a a a a a a a a a a a c c c # # # # # # # # # 
+                                          ^
+Stan tasmy: b b b a a a a a a a a a a a a a a a a a c c c # # # # # # # # # 
+                                        ^
+Stan tasmy: b b b a a a a a a a a a a a a a a a a a c c c # # # # # # # # # 
+                                      ^
+Stan tasmy: b b b a a a a a a a a a a a a a a a a a c c c # # # # # # # # # 
+                                    ^
+Stan tasmy: b b b a a a a a a a a a a a a a a a a a c c c # # # # # # # # # 
+                                  ^
+Stan tasmy: b b b a a a a a a a a a a a a a a a a a c c c # # # # # # # # # 
+                                ^
+Stan tasmy: b b b a a a a a a a a a a a a a a a a a c c c # # # # # # # # # 
+                              ^
+Stan tasmy: b b b a a a a a a a a a a a a a a a a a c c c # # # # # # # # # 
+                            ^
+Stan tasmy: b b b a a a a a a a a a a a a a a a a a c c c # # # # # # # # # 
+                          ^
+Stan tasmy: b b b a a a a a a a a a a a a a a a a a c c c # # # # # # # # # 
+                        ^
+Stan tasmy: b b b a a a a a a a a a a a a a a a a a c c c # # # # # # # # # 
+                      ^
+Stan tasmy: b b b a a a a a a a a a a a a a a a a a c c c # # # # # # # # # 
+                    ^
+Stan tasmy: b b b a a a a a a a a a a a a a a a a a c c c # # # # # # # # # 
+                  ^
+Stan tasmy: b b b a a a a a a a a a a a a a a a a a c c c # # # # # # # # # 
+                ^
+Stan tasmy: b b b a a a a a a a a a a a a a a a a a c c c # # # # # # # # # 
+                  ^
+Stan tasmy: b b b b a a a a a a a a a a a a a a a a c c c # # # # # # # # # 
+                    ^
+Stan tasmy: b b b b a a a a a a a a a a a a a a a a c c c # # # # # # # # # 
+                      ^
+Stan tasmy: b b b b a a a a a a a a a a a a a a a a c c c # # # # # # # # # 
+                        ^
+Stan tasmy: b b b b a a a a a a a a a a a a a a a a c c c # # # # # # # # # 
+                          ^
+Stan tasmy: b b b b a a a a a a a a a a a a a a a a c c c # # # # # # # # # 
+                            ^
+Stan tasmy: b b b b a a a a a a a a a a a a a a a a c c c # # # # # # # # # 
+                              ^
+Stan tasmy: b b b b a a a a a a a a a a a a a a a a c c c # # # # # # # # # 
+                                ^
+Stan tasmy: b b b b a a a a a a a a a a a a a a a a c c c # # # # # # # # # 
+                                  ^
+Stan tasmy: b b b b a a a a a a a a a a a a a a a a c c c # # # # # # # # # 
+                                    ^
+Stan tasmy: b b b b a a a a a a a a a a a a a a a a c c c # # # # # # # # # 
+                                      ^
+Stan tasmy: b b b b a a a a a a a a a a a a a a a a c c c # # # # # # # # # 
+                                        ^
+Stan tasmy: b b b b a a a a a a a a a a a a a a a a c c c # # # # # # # # # 
+                                          ^
+Stan tasmy: b b b b a a a a a a a a a a a a a a a a c c c # # # # # # # # # 
+                                            ^
+Stan tasmy: b b b b a a a a a a a a a a a a a a a a c c c # # # # # # # # # 
+                                              ^
+Stan tasmy: b b b b a a a a a a a a a a a a a a a a c c c # # # # # # # # # 
+                                                ^
+Stan tasmy: b b b b a a a a a a a a a a a a a a a a c c c # # # # # # # # # 
+                                                  ^
+Stan tasmy: b b b b a a a a a a a a a a a a a a a a c c c # # # # # # # # # 
+                                                    ^
+Stan tasmy: b b b b a a a a a a a a a a a a a a a a c c c # # # # # # # # # 
+                                                      ^
+Stan tasmy: b b b b a a a a a a a a a a a a a a a a c c c # # # # # # # # # 
+                                                        ^
+Stan tasmy: b b b b a a a a a a a a a a a a a a a a c c c # # # # # # # # # 
+                                                          ^
+Stan tasmy: b b b b a a a a a a a a a a a a a a a a c c c c # # # # # # # # 
+                                                        ^
+Stan tasmy: b b b b a a a a a a a a a a a a a a a a c c c c # # # # # # # # 
+                                                      ^
+Stan tasmy: b b b b a a a a a a a a a a a a a a a a c c c c # # # # # # # # 
+                                                    ^
+Stan tasmy: b b b b a a a a a a a a a a a a a a a a c c c c # # # # # # # # 
+                                                  ^
+Stan tasmy: b b b b a a a a a a a a a a a a a a a a c c c c # # # # # # # # 
+                                                ^
+Stan tasmy: b b b b a a a a a a a a a a a a a a a a c c c c # # # # # # # # 
+                                              ^
+Stan tasmy: b b b b a a a a a a a a a a a a a a a a c c c c # # # # # # # # 
+                                            ^
+Stan tasmy: b b b b a a a a a a a a a a a a a a a a c c c c # # # # # # # # 
+                                          ^
+Stan tasmy: b b b b a a a a a a a a a a a a a a a a c c c c # # # # # # # # 
+                                        ^
+Stan tasmy: b b b b a a a a a a a a a a a a a a a a c c c c # # # # # # # # 
+                                      ^
+Stan tasmy: b b b b a a a a a a a a a a a a a a a a c c c c # # # # # # # # 
+                                    ^
+Stan tasmy: b b b b a a a a a a a a a a a a a a a a c c c c # # # # # # # # 
+                                  ^
+Stan tasmy: b b b b a a a a a a a a a a a a a a a a c c c c # # # # # # # # 
+                                ^
+Stan tasmy: b b b b a a a a a a a a a a a a a a a a c c c c # # # # # # # # 
+                              ^
+Stan tasmy: b b b b a a a a a a a a a a a a a a a a c c c c # # # # # # # # 
+                            ^
+Stan tasmy: b b b b a a a a a a a a a a a a a a a a c c c c # # # # # # # # 
+                          ^
+Stan tasmy: b b b b a a a a a a a a a a a a a a a a c c c c # # # # # # # # 
+                        ^
+Stan tasmy: b b b b a a a a a a a a a a a a a a a a c c c c # # # # # # # # 
+                      ^
+Stan tasmy: b b b b a a a a a a a a a a a a a a a a c c c c # # # # # # # # 
+                    ^
+Stan tasmy: b b b b a a a a a a a a a a a a a a a a c c c c # # # # # # # # 
+                  ^
+Stan tasmy: b b b b a a a a a a a a a a a a a a a a c c c c # # # # # # # # 
+                    ^
+Stan tasmy: b b b b b a a a a a a a a a a a a a a a c c c c # # # # # # # # 
+                      ^
+Stan tasmy: b b b b b a a a a a a a a a a a a a a a c c c c # # # # # # # # 
+                        ^
+Stan tasmy: b b b b b a a a a a a a a a a a a a a a c c c c # # # # # # # # 
+                          ^
+Stan tasmy: b b b b b a a a a a a a a a a a a a a a c c c c # # # # # # # # 
+                            ^
+Stan tasmy: b b b b b a a a a a a a a a a a a a a a c c c c # # # # # # # # 
+                              ^
+Stan tasmy: b b b b b a a a a a a a a a a a a a a a c c c c # # # # # # # # 
+                                ^
+Stan tasmy: b b b b b a a a a a a a a a a a a a a a c c c c # # # # # # # # 
+                                  ^
+Stan tasmy: b b b b b a a a a a a a a a a a a a a a c c c c # # # # # # # # 
+                                    ^
+Stan tasmy: b b b b b a a a a a a a a a a a a a a a c c c c # # # # # # # # 
+                                      ^
+Stan tasmy: b b b b b a a a a a a a a a a a a a a a c c c c # # # # # # # # 
+                                        ^
+Stan tasmy: b b b b b a a a a a a a a a a a a a a a c c c c # # # # # # # # 
+                                          ^
+Stan tasmy: b b b b b a a a a a a a a a a a a a a a c c c c # # # # # # # # 
+                                            ^
+Stan tasmy: b b b b b a a a a a a a a a a a a a a a c c c c # # # # # # # # 
+                                              ^
+Stan tasmy: b b b b b a a a a a a a a a a a a a a a c c c c # # # # # # # # 
+                                                ^
+Stan tasmy: b b b b b a a a a a a a a a a a a a a a c c c c # # # # # # # # 
+                                                  ^
+Stan tasmy: b b b b b a a a a a a a a a a a a a a a c c c c # # # # # # # # 
+                                                    ^
+Stan tasmy: b b b b b a a a a a a a a a a a a a a a c c c c # # # # # # # # 
+                                                      ^
+Stan tasmy: b b b b b a a a a a a a a a a a a a a a c c c c # # # # # # # # 
+                                                        ^
+Stan tasmy: b b b b b a a a a a a a a a a a a a a a c c c c # # # # # # # # 
+                                                          ^
+Stan tasmy: b b b b b a a a a a a a a a a a a a a a c c c c # # # # # # # # 
+                                                            ^
+Stan tasmy: b b b b b a a a a a a a a a a a a a a a c c c c c # # # # # # # 
+                                                          ^
+Stan tasmy: b b b b b a a a a a a a a a a a a a a a c c c c c # # # # # # # 
+                                                        ^
+Stan tasmy: b b b b b a a a a a a a a a a a a a a a c c c c c # # # # # # # 
+                                                      ^
+Stan tasmy: b b b b b a a a a a a a a a a a a a a a c c c c c # # # # # # # 
+                                                    ^
+Stan tasmy: b b b b b a a a a a a a a a a a a a a a c c c c c # # # # # # # 
+                                                  ^
+Stan tasmy: b b b b b a a a a a a a a a a a a a a a c c c c c # # # # # # # 
+                                                ^
+Stan tasmy: b b b b b a a a a a a a a a a a a a a a c c c c c # # # # # # # 
+                                              ^
+Stan tasmy: b b b b b a a a a a a a a a a a a a a a c c c c c # # # # # # # 
+                                            ^
+Stan tasmy: b b b b b a a a a a a a a a a a a a a a c c c c c # # # # # # # 
+                                          ^
+Stan tasmy: b b b b b a a a a a a a a a a a a a a a c c c c c # # # # # # # 
+                                        ^
+Stan tasmy: b b b b b a a a a a a a a a a a a a a a c c c c c # # # # # # # 
+                                      ^
+Stan tasmy: b b b b b a a a a a a a a a a a a a a a c c c c c # # # # # # # 
+                                    ^
+Stan tasmy: b b b b b a a a a a a a a a a a a a a a c c c c c # # # # # # # 
+                                  ^
+Stan tasmy: b b b b b a a a a a a a a a a a a a a a c c c c c # # # # # # # 
+                                ^
+Stan tasmy: b b b b b a a a a a a a a a a a a a a a c c c c c # # # # # # # 
+                              ^
+Stan tasmy: b b b b b a a a a a a a a a a a a a a a c c c c c # # # # # # # 
+                            ^
+Stan tasmy: b b b b b a a a a a a a a a a a a a a a c c c c c # # # # # # # 
+                          ^
+Stan tasmy: b b b b b a a a a a a a a a a a a a a a c c c c c # # # # # # # 
+                        ^
+Stan tasmy: b b b b b a a a a a a a a a a a a a a a c c c c c # # # # # # # 
+                      ^
+Stan tasmy: b b b b b a a a a a a a a a a a a a a a c c c c c # # # # # # # 
+                    ^
+Stan tasmy: b b b b b a a a a a a a a a a a a a a a c c c c c # # # # # # # 
+                      ^
+Stan tasmy: b b b b b b a a a a a a a a a a a a a a c c c c c # # # # # # # 
+                        ^
+Stan tasmy: b b b b b b a a a a a a a a a a a a a a c c c c c # # # # # # # 
+                          ^
+Stan tasmy: b b b b b b a a a a a a a a a a a a a a c c c c c # # # # # # # 
+                            ^
+Stan tasmy: b b b b b b a a a a a a a a a a a a a a c c c c c # # # # # # # 
+                              ^
+Stan tasmy: b b b b b b a a a a a a a a a a a a a a c c c c c # # # # # # # 
+                                ^
+Stan tasmy: b b b b b b a a a a a a a a a a a a a a c c c c c # # # # # # # 
+                                  ^
+Stan tasmy: b b b b b b a a a a a a a a a a a a a a c c c c c # # # # # # # 
+                                    ^
+Stan tasmy: b b b b b b a a a a a a a a a a a a a a c c c c c # # # # # # # 
+                                      ^
+Stan tasmy: b b b b b b a a a a a a a a a a a a a a c c c c c # # # # # # # 
+                                        ^
+Stan tasmy: b b b b b b a a a a a a a a a a a a a a c c c c c # # # # # # # 
+                                          ^
+Stan tasmy: b b b b b b a a a a a a a a a a a a a a c c c c c # # # # # # # 
+                                            ^
+Stan tasmy: b b b b b b a a a a a a a a a a a a a a c c c c c # # # # # # # 
+                                              ^
+Stan tasmy: b b b b b b a a a a a a a a a a a a a a c c c c c # # # # # # # 
+                                                ^
+Stan tasmy: b b b b b b a a a a a a a a a a a a a a c c c c c # # # # # # # 
+                                                  ^
+Stan tasmy: b b b b b b a a a a a a a a a a a a a a c c c c c # # # # # # # 
+                                                    ^
+Stan tasmy: b b b b b b a a a a a a a a a a a a a a c c c c c # # # # # # # 
+                                                      ^
+Stan tasmy: b b b b b b a a a a a a a a a a a a a a c c c c c # # # # # # # 
+                                                        ^
+Stan tasmy: b b b b b b a a a a a a a a a a a a a a c c c c c # # # # # # # 
+                                                          ^
+Stan tasmy: b b b b b b a a a a a a a a a a a a a a c c c c c # # # # # # # 
+                                                            ^
+Stan tasmy: b b b b b b a a a a a a a a a a a a a a c c c c c # # # # # # # 
+                                                              ^
+Stan tasmy: b b b b b b a a a a a a a a a a a a a a c c c c c c # # # # # # 
+                                                            ^
+Stan tasmy: b b b b b b a a a a a a a a a a a a a a c c c c c c # # # # # # 
+                                                          ^
+Stan tasmy: b b b b b b a a a a a a a a a a a a a a c c c c c c # # # # # # 
+                                                        ^
+Stan tasmy: b b b b b b a a a a a a a a a a a a a a c c c c c c # # # # # # 
+                                                      ^
+Stan tasmy: b b b b b b a a a a a a a a a a a a a a c c c c c c # # # # # # 
+                                                    ^
+Stan tasmy: b b b b b b a a a a a a a a a a a a a a c c c c c c # # # # # # 
+                                                  ^
+Stan tasmy: b b b b b b a a a a a a a a a a a a a a c c c c c c # # # # # # 
+                                                ^
+Stan tasmy: b b b b b b a a a a a a a a a a a a a a c c c c c c # # # # # # 
+                                              ^
+Stan tasmy: b b b b b b a a a a a a a a a a a a a a c c c c c c # # # # # # 
+                                            ^
+Stan tasmy: b b b b b b a a a a a a a a a a a a a a c c c c c c # # # # # # 
+                                          ^
+Stan tasmy: b b b b b b a a a a a a a a a a a a a a c c c c c c # # # # # # 
+                                        ^
+Stan tasmy: b b b b b b a a a a a a a a a a a a a a c c c c c c # # # # # # 
+                                      ^
+Stan tasmy: b b b b b b a a a a a a a a a a a a a a c c c c c c # # # # # # 
+                                    ^
+Stan tasmy: b b b b b b a a a a a a a a a a a a a a c c c c c c # # # # # # 
+                                  ^
+Stan tasmy: b b b b b b a a a a a a a a a a a a a a c c c c c c # # # # # # 
+                                ^
+Stan tasmy: b b b b b b a a a a a a a a a a a a a a c c c c c c # # # # # # 
+                              ^
+Stan tasmy: b b b b b b a a a a a a a a a a a a a a c c c c c c # # # # # # 
+                            ^
+Stan tasmy: b b b b b b a a a a a a a a a a a a a a c c c c c c # # # # # # 
+                          ^
+Stan tasmy: b b b b b b a a a a a a a a a a a a a a c c c c c c # # # # # # 
+                        ^
+Stan tasmy: b b b b b b a a a a a a a a a a a a a a c c c c c c # # # # # # 
+                      ^
+Stan tasmy: b b b b b b a a a a a a a a a a a a a a c c c c c c # # # # # # 
+                        ^
+Stan tasmy: b b b b b b b a a a a a a a a a a a a a c c c c c c # # # # # # 
+                          ^
+Stan tasmy: b b b b b b b a a a a a a a a a a a a a c c c c c c # # # # # # 
+                            ^
+Stan tasmy: b b b b b b b a a a a a a a a a a a a a c c c c c c # # # # # # 
+                              ^
+Stan tasmy: b b b b b b b a a a a a a a a a a a a a c c c c c c # # # # # # 
+                                ^
+Stan tasmy: b b b b b b b a a a a a a a a a a a a a c c c c c c # # # # # # 
+                                  ^
+Stan tasmy: b b b b b b b a a a a a a a a a a a a a c c c c c c # # # # # # 
+                                    ^
+Stan tasmy: b b b b b b b a a a a a a a a a a a a a c c c c c c # # # # # # 
+                                      ^
+Stan tasmy: b b b b b b b a a a a a a a a a a a a a c c c c c c # # # # # # 
+                                        ^
+Stan tasmy: b b b b b b b a a a a a a a a a a a a a c c c c c c # # # # # # 
+                                          ^
+Stan tasmy: b b b b b b b a a a a a a a a a a a a a c c c c c c # # # # # # 
+                                            ^
+Stan tasmy: b b b b b b b a a a a a a a a a a a a a c c c c c c # # # # # # 
+                                              ^
+Stan tasmy: b b b b b b b a a a a a a a a a a a a a c c c c c c # # # # # # 
+                                                ^
+Stan tasmy: b b b b b b b a a a a a a a a a a a a a c c c c c c # # # # # # 
+                                                  ^
+Stan tasmy: b b b b b b b a a a a a a a a a a a a a c c c c c c # # # # # # 
+                                                    ^
+Stan tasmy: b b b b b b b a a a a a a a a a a a a a c c c c c c # # # # # # 
+                                                      ^
+Stan tasmy: b b b b b b b a a a a a a a a a a a a a c c c c c c # # # # # # 
+                                                        ^
+Stan tasmy: b b b b b b b a a a a a a a a a a a a a c c c c c c # # # # # # 
+                                                          ^
+Stan tasmy: b b b b b b b a a a a a a a a a a a a a c c c c c c # # # # # # 
+                                                            ^
+Stan tasmy: b b b b b b b a a a a a a a a a a a a a c c c c c c # # # # # # 
+                                                              ^
+Stan tasmy: b b b b b b b a a a a a a a a a a a a a c c c c c c # # # # # # 
+                                                                ^
+Stan tasmy: b b b b b b b a a a a a a a a a a a a a c c c c c c c # # # # # 
+                                                              ^
+Stan tasmy: b b b b b b b a a a a a a a a a a a a a c c c c c c c # # # # # 
+                                                            ^
+Stan tasmy: b b b b b b b a a a a a a a a a a a a a c c c c c c c # # # # # 
+                                                          ^
+Stan tasmy: b b b b b b b a a a a a a a a a a a a a c c c c c c c # # # # # 
+                                                        ^
+Stan tasmy: b b b b b b b a a a a a a a a a a a a a c c c c c c c # # # # # 
+                                                      ^
+Stan tasmy: b b b b b b b a a a a a a a a a a a a a c c c c c c c # # # # # 
+                                                    ^
+Stan tasmy: b b b b b b b a a a a a a a a a a a a a c c c c c c c # # # # # 
+                                                  ^
+Stan tasmy: b b b b b b b a a a a a a a a a a a a a c c c c c c c # # # # # 
+                                                ^
+Stan tasmy: b b b b b b b a a a a a a a a a a a a a c c c c c c c # # # # # 
+                                              ^
+Stan tasmy: b b b b b b b a a a a a a a a a a a a a c c c c c c c # # # # # 
+                                            ^
+Stan tasmy: b b b b b b b a a a a a a a a a a a a a c c c c c c c # # # # # 
+                                          ^
+Stan tasmy: b b b b b b b a a a a a a a a a a a a a c c c c c c c # # # # # 
+                                        ^
+Stan tasmy: b b b b b b b a a a a a a a a a a a a a c c c c c c c # # # # # 
+                                      ^
+Stan tasmy: b b b b b b b a a a a a a a a a a a a a c c c c c c c # # # # # 
+                                    ^
+Stan tasmy: b b b b b b b a a a a a a a a a a a a a c c c c c c c # # # # # 
+                                  ^
+Stan tasmy: b b b b b b b a a a a a a a a a a a a a c c c c c c c # # # # # 
+                                ^
+Stan tasmy: b b b b b b b a a a a a a a a a a a a a c c c c c c c # # # # # 
+                              ^
+Stan tasmy: b b b b b b b a a a a a a a a a a a a a c c c c c c c # # # # # 
+                            ^
+Stan tasmy: b b b b b b b a a a a a a a a a a a a a c c c c c c c # # # # # 
+                          ^
+Stan tasmy: b b b b b b b a a a a a a a a a a a a a c c c c c c c # # # # # 
+                        ^
+Stan tasmy: b b b b b b b a a a a a a a a a a a a a c c c c c c c # # # # # 
+                          ^
+Stan tasmy: b b b b b b b b a a a a a a a a a a a a c c c c c c c # # # # # 
+                            ^
+Stan tasmy: b b b b b b b b a a a a a a a a a a a a c c c c c c c # # # # # 
+                              ^
+Stan tasmy: b b b b b b b b a a a a a a a a a a a a c c c c c c c # # # # # 
+                                ^
+Stan tasmy: b b b b b b b b a a a a a a a a a a a a c c c c c c c # # # # # 
+                                  ^
+Stan tasmy: b b b b b b b b a a a a a a a a a a a a c c c c c c c # # # # # 
+                                    ^
+Stan tasmy: b b b b b b b b a a a a a a a a a a a a c c c c c c c # # # # # 
+                                      ^
+Stan tasmy: b b b b b b b b a a a a a a a a a a a a c c c c c c c # # # # # 
+                                        ^
+Stan tasmy: b b b b b b b b a a a a a a a a a a a a c c c c c c c # # # # # 
+                                          ^
+Stan tasmy: b b b b b b b b a a a a a a a a a a a a c c c c c c c # # # # # 
+                                            ^
+Stan tasmy: b b b b b b b b a a a a a a a a a a a a c c c c c c c # # # # # 
+                                              ^
+Stan tasmy: b b b b b b b b a a a a a a a a a a a a c c c c c c c # # # # # 
+                                                ^
+Stan tasmy: b b b b b b b b a a a a a a a a a a a a c c c c c c c # # # # # 
+                                                  ^
+Stan tasmy: b b b b b b b b a a a a a a a a a a a a c c c c c c c # # # # # 
+                                                    ^
+Stan tasmy: b b b b b b b b a a a a a a a a a a a a c c c c c c c # # # # # 
+                                                      ^
+Stan tasmy: b b b b b b b b a a a a a a a a a a a a c c c c c c c # # # # # 
+                                                        ^
+Stan tasmy: b b b b b b b b a a a a a a a a a a a a c c c c c c c # # # # # 
+                                                          ^
+Stan tasmy: b b b b b b b b a a a a a a a a a a a a c c c c c c c # # # # # 
+                                                            ^
+Stan tasmy: b b b b b b b b a a a a a a a a a a a a c c c c c c c # # # # # 
+                                                              ^
+Stan tasmy: b b b b b b b b a a a a a a a a a a a a c c c c c c c # # # # # 
+                                                                ^
+Stan tasmy: b b b b b b b b a a a a a a a a a a a a c c c c c c c # # # # # 
+                                                                  ^
+Stan tasmy: b b b b b b b b a a a a a a a a a a a a c c c c c c c c # # # # 
+                                                                ^
+Stan tasmy: b b b b b b b b a a a a a a a a a a a a c c c c c c c c # # # # 
+                                                              ^
+Stan tasmy: b b b b b b b b a a a a a a a a a a a a c c c c c c c c # # # # 
+                                                            ^
+Stan tasmy: b b b b b b b b a a a a a a a a a a a a c c c c c c c c # # # # 
+                                                          ^
+Stan tasmy: b b b b b b b b a a a a a a a a a a a a c c c c c c c c # # # # 
+                                                        ^
+Stan tasmy: b b b b b b b b a a a a a a a a a a a a c c c c c c c c # # # # 
+                                                      ^
+Stan tasmy: b b b b b b b b a a a a a a a a a a a a c c c c c c c c # # # # 
+                                                    ^
+Stan tasmy: b b b b b b b b a a a a a a a a a a a a c c c c c c c c # # # # 
+                                                  ^
+Stan tasmy: b b b b b b b b a a a a a a a a a a a a c c c c c c c c # # # # 
+                                                ^
+Stan tasmy: b b b b b b b b a a a a a a a a a a a a c c c c c c c c # # # # 
+                                              ^
+Stan tasmy: b b b b b b b b a a a a a a a a a a a a c c c c c c c c # # # # 
+                                            ^
+Stan tasmy: b b b b b b b b a a a a a a a a a a a a c c c c c c c c # # # # 
+                                          ^
+Stan tasmy: b b b b b b b b a a a a a a a a a a a a c c c c c c c c # # # # 
+                                        ^
+Stan tasmy: b b b b b b b b a a a a a a a a a a a a c c c c c c c c # # # # 
+                                      ^
+Stan tasmy: b b b b b b b b a a a a a a a a a a a a c c c c c c c c # # # # 
+                                    ^
+Stan tasmy: b b b b b b b b a a a a a a a a a a a a c c c c c c c c # # # # 
+                                  ^
+Stan tasmy: b b b b b b b b a a a a a a a a a a a a c c c c c c c c # # # # 
+                                ^
+Stan tasmy: b b b b b b b b a a a a a a a a a a a a c c c c c c c c # # # # 
+                              ^
+Stan tasmy: b b b b b b b b a a a a a a a a a a a a c c c c c c c c # # # # 
+                            ^
+Stan tasmy: b b b b b b b b a a a a a a a a a a a a c c c c c c c c # # # # 
+                          ^
+Stan tasmy: b b b b b b b b a a a a a a a a a a a a c c c c c c c c # # # # 
+                            ^
+Stan tasmy: b b b b b b b b b a a a a a a a a a a a c c c c c c c c # # # # 
+                              ^
+Stan tasmy: b b b b b b b b b a a a a a a a a a a a c c c c c c c c # # # # 
+                                ^
+Stan tasmy: b b b b b b b b b a a a a a a a a a a a c c c c c c c c # # # # 
+                                  ^
+Stan tasmy: b b b b b b b b b a a a a a a a a a a a c c c c c c c c # # # # 
+                                    ^
+Stan tasmy: b b b b b b b b b a a a a a a a a a a a c c c c c c c c # # # # 
+                                      ^
+Stan tasmy: b b b b b b b b b a a a a a a a a a a a c c c c c c c c # # # # 
+                                        ^
+Stan tasmy: b b b b b b b b b a a a a a a a a a a a c c c c c c c c # # # # 
+                                          ^
+Stan tasmy: b b b b b b b b b a a a a a a a a a a a c c c c c c c c # # # # 
+                                            ^
+Stan tasmy: b b b b b b b b b a a a a a a a a a a a c c c c c c c c # # # # 
+                                              ^
+Stan tasmy: b b b b b b b b b a a a a a a a a a a a c c c c c c c c # # # # 
+                                                ^
+Stan tasmy: b b b b b b b b b a a a a a a a a a a a c c c c c c c c # # # # 
+                                                  ^
+Stan tasmy: b b b b b b b b b a a a a a a a a a a a c c c c c c c c # # # # 
+                                                    ^
+Stan tasmy: b b b b b b b b b a a a a a a a a a a a c c c c c c c c # # # # 
+                                                      ^
+Stan tasmy: b b b b b b b b b a a a a a a a a a a a c c c c c c c c # # # # 
+                                                        ^
+Stan tasmy: b b b b b b b b b a a a a a a a a a a a c c c c c c c c # # # # 
+                                                          ^
+Stan tasmy: b b b b b b b b b a a a a a a a a a a a c c c c c c c c # # # # 
+                                                            ^
+Stan tasmy: b b b b b b b b b a a a a a a a a a a a c c c c c c c c # # # # 
+                                                              ^
+Stan tasmy: b b b b b b b b b a a a a a a a a a a a c c c c c c c c # # # # 
+                                                                ^
+Stan tasmy: b b b b b b b b b a a a a a a a a a a a c c c c c c c c # # # # 
+                                                                  ^
+Stan tasmy: b b b b b b b b b a a a a a a a a a a a c c c c c c c c # # # # 
+                                                                    ^
+Stan tasmy: b b b b b b b b b a a a a a a a a a a a c c c c c c c c c # # # 
+                                                                  ^
+Stan tasmy: b b b b b b b b b a a a a a a a a a a a c c c c c c c c c # # # 
+                                                                ^
+Stan tasmy: b b b b b b b b b a a a a a a a a a a a c c c c c c c c c # # # 
+                                                              ^
+Stan tasmy: b b b b b b b b b a a a a a a a a a a a c c c c c c c c c # # # 
+                                                            ^
+Stan tasmy: b b b b b b b b b a a a a a a a a a a a c c c c c c c c c # # # 
+                                                          ^
+Stan tasmy: b b b b b b b b b a a a a a a a a a a a c c c c c c c c c # # # 
+                                                        ^
+Stan tasmy: b b b b b b b b b a a a a a a a a a a a c c c c c c c c c # # # 
+                                                      ^
+Stan tasmy: b b b b b b b b b a a a a a a a a a a a c c c c c c c c c # # # 
+                                                    ^
+Stan tasmy: b b b b b b b b b a a a a a a a a a a a c c c c c c c c c # # # 
+                                                  ^
+Stan tasmy: b b b b b b b b b a a a a a a a a a a a c c c c c c c c c # # # 
+                                                ^
+Stan tasmy: b b b b b b b b b a a a a a a a a a a a c c c c c c c c c # # # 
+                                              ^
+Stan tasmy: b b b b b b b b b a a a a a a a a a a a c c c c c c c c c # # # 
+                                            ^
+Stan tasmy: b b b b b b b b b a a a a a a a a a a a c c c c c c c c c # # # 
+                                          ^
+Stan tasmy: b b b b b b b b b a a a a a a a a a a a c c c c c c c c c # # # 
+                                        ^
+Stan tasmy: b b b b b b b b b a a a a a a a a a a a c c c c c c c c c # # # 
+                                      ^
+Stan tasmy: b b b b b b b b b a a a a a a a a a a a c c c c c c c c c # # # 
+                                    ^
+Stan tasmy: b b b b b b b b b a a a a a a a a a a a c c c c c c c c c # # # 
+                                  ^
+Stan tasmy: b b b b b b b b b a a a a a a a a a a a c c c c c c c c c # # # 
+                                ^
+Stan tasmy: b b b b b b b b b a a a a a a a a a a a c c c c c c c c c # # # 
+                              ^
+Stan tasmy: b b b b b b b b b a a a a a a a a a a a c c c c c c c c c # # # 
+                            ^
+Stan tasmy: b b b b b b b b b a a a a a a a a a a a c c c c c c c c c # # # 
+                              ^
+Stan tasmy: b b b b b b b b b b a a a a a a a a a a c c c c c c c c c # # # 
+                                ^
+Stan tasmy: b b b b b b b b b b a a a a a a a a a a c c c c c c c c c # # # 
+                                  ^
+Stan tasmy: b b b b b b b b b b a a a a a a a a a a c c c c c c c c c # # # 
+                                    ^
+Stan tasmy: b b b b b b b b b b a a a a a a a a a a c c c c c c c c c # # # 
+                                      ^
+Stan tasmy: b b b b b b b b b b a a a a a a a a a a c c c c c c c c c # # # 
+                                        ^
+Stan tasmy: b b b b b b b b b b a a a a a a a a a a c c c c c c c c c # # # 
+                                          ^
+Stan tasmy: b b b b b b b b b b a a a a a a a a a a c c c c c c c c c # # # 
+                                            ^
+Stan tasmy: b b b b b b b b b b a a a a a a a a a a c c c c c c c c c # # # 
+                                              ^
+Stan tasmy: b b b b b b b b b b a a a a a a a a a a c c c c c c c c c # # # 
+                                                ^
+Stan tasmy: b b b b b b b b b b a a a a a a a a a a c c c c c c c c c # # # 
+                                                  ^
+Stan tasmy: b b b b b b b b b b a a a a a a a a a a c c c c c c c c c # # # 
+                                                    ^
+Stan tasmy: b b b b b b b b b b a a a a a a a a a a c c c c c c c c c # # # 
+                                                      ^
+Stan tasmy: b b b b b b b b b b a a a a a a a a a a c c c c c c c c c # # # 
+                                                        ^
+Stan tasmy: b b b b b b b b b b a a a a a a a a a a c c c c c c c c c # # # 
+                                                          ^
+Stan tasmy: b b b b b b b b b b a a a a a a a a a a c c c c c c c c c # # # 
+                                                            ^
+Stan tasmy: b b b b b b b b b b a a a a a a a a a a c c c c c c c c c # # # 
+                                                              ^
+Stan tasmy: b b b b b b b b b b a a a a a a a a a a c c c c c c c c c # # # 
+                                                                ^
+Stan tasmy: b b b b b b b b b b a a a a a a a a a a c c c c c c c c c # # # 
+                                                                  ^
+Stan tasmy: b b b b b b b b b b a a a a a a a a a a c c c c c c c c c # # # 
+                                                                    ^
+Stan tasmy: b b b b b b b b b b a a a a a a a a a a c c c c c c c c c # # # 
+                                                                      ^
+Stan tasmy: b b b b b b b b b b a a a a a a a a a a c c c c c c c c c c # # 
+                                                                    ^
+Stan tasmy: b b b b b b b b b b a a a a a a a a a a c c c c c c c c c c # # 
+                                                                  ^
+Stan tasmy: b b b b b b b b b b a a a a a a a a a a c c c c c c c c c c # # 
+                                                                ^
+Stan tasmy: b b b b b b b b b b a a a a a a a a a a c c c c c c c c c c # # 
+                                                              ^
+Stan tasmy: b b b b b b b b b b a a a a a a a a a a c c c c c c c c c c # # 
+                                                            ^
+Stan tasmy: b b b b b b b b b b a a a a a a a a a a c c c c c c c c c c # # 
+                                                          ^
+Stan tasmy: b b b b b b b b b b a a a a a a a a a a c c c c c c c c c c # # 
+                                                        ^
+Stan tasmy: b b b b b b b b b b a a a a a a a a a a c c c c c c c c c c # # 
+                                                      ^
+Stan tasmy: b b b b b b b b b b a a a a a a a a a a c c c c c c c c c c # # 
+                                                    ^
+Stan tasmy: b b b b b b b b b b a a a a a a a a a a c c c c c c c c c c # # 
+                                                  ^
+Stan tasmy: b b b b b b b b b b a a a a a a a a a a c c c c c c c c c c # # 
+                                                ^
+Stan tasmy: b b b b b b b b b b a a a a a a a a a a c c c c c c c c c c # # 
+                                              ^
+Stan tasmy: b b b b b b b b b b a a a a a a a a a a c c c c c c c c c c # # 
+                                            ^
+Stan tasmy: b b b b b b b b b b a a a a a a a a a a c c c c c c c c c c # # 
+                                          ^
+Stan tasmy: b b b b b b b b b b a a a a a a a a a a c c c c c c c c c c # # 
+                                        ^
+Stan tasmy: b b b b b b b b b b a a a a a a a a a a c c c c c c c c c c # # 
+                                      ^
+Stan tasmy: b b b b b b b b b b a a a a a a a a a a c c c c c c c c c c # # 
+                                    ^
+Stan tasmy: b b b b b b b b b b a a a a a a a a a a c c c c c c c c c c # # 
+                                  ^
+Stan tasmy: b b b b b b b b b b a a a a a a a a a a c c c c c c c c c c # # 
+                                ^
+Stan tasmy: b b b b b b b b b b a a a a a a a a a a c c c c c c c c c c # # 
+                              ^
+Stan tasmy: b b b b b b b b b b a a a a a a a a a a c c c c c c c c c c # # 
+                                ^
+Stan tasmy: b b b b b b b b b b b a a a a a a a a a c c c c c c c c c c # # 
+                                  ^
+Stan tasmy: b b b b b b b b b b b a a a a a a a a a c c c c c c c c c c # # 
+                                    ^
+Stan tasmy: b b b b b b b b b b b a a a a a a a a a c c c c c c c c c c # # 
+                                      ^
+Stan tasmy: b b b b b b b b b b b a a a a a a a a a c c c c c c c c c c # # 
+                                        ^
+Stan tasmy: b b b b b b b b b b b a a a a a a a a a c c c c c c c c c c # # 
+                                          ^
+Stan tasmy: b b b b b b b b b b b a a a a a a a a a c c c c c c c c c c # # 
+                                            ^
+Stan tasmy: b b b b b b b b b b b a a a a a a a a a c c c c c c c c c c # # 
+                                              ^
+Stan tasmy: b b b b b b b b b b b a a a a a a a a a c c c c c c c c c c # # 
+                                                ^
+Stan tasmy: b b b b b b b b b b b a a a a a a a a a c c c c c c c c c c # # 
+                                                  ^
+Stan tasmy: b b b b b b b b b b b a a a a a a a a a c c c c c c c c c c # # 
+                                                    ^
+Stan tasmy: b b b b b b b b b b b a a a a a a a a a c c c c c c c c c c # # 
+                                                      ^
+Stan tasmy: b b b b b b b b b b b a a a a a a a a a c c c c c c c c c c # # 
+                                                        ^
+Stan tasmy: b b b b b b b b b b b a a a a a a a a a c c c c c c c c c c # # 
+                                                          ^
+Stan tasmy: b b b b b b b b b b b a a a a a a a a a c c c c c c c c c c # # 
+                                                            ^
+Stan tasmy: b b b b b b b b b b b a a a a a a a a a c c c c c c c c c c # # 
+                                                              ^
+Stan tasmy: b b b b b b b b b b b a a a a a a a a a c c c c c c c c c c # # 
+                                                                ^
+Stan tasmy: b b b b b b b b b b b a a a a a a a a a c c c c c c c c c c # # 
+                                                                  ^
+Stan tasmy: b b b b b b b b b b b a a a a a a a a a c c c c c c c c c c # # 
+                                                                    ^
+Stan tasmy: b b b b b b b b b b b a a a a a a a a a c c c c c c c c c c # # 
+                                                                      ^
+Stan tasmy: b b b b b b b b b b b a a a a a a a a a c c c c c c c c c c # # 
+                                                                        ^
+Stan tasmy: b b b b b b b b b b b a a a a a a a a a c c c c c c c c c c c # 
+                                                                      ^
+Stan tasmy: b b b b b b b b b b b a a a a a a a a a c c c c c c c c c c c # 
+                                                                    ^
+Stan tasmy: b b b b b b b b b b b a a a a a a a a a c c c c c c c c c c c # 
+                                                                  ^
+Stan tasmy: b b b b b b b b b b b a a a a a a a a a c c c c c c c c c c c # 
+                                                                ^
+Stan tasmy: b b b b b b b b b b b a a a a a a a a a c c c c c c c c c c c # 
+                                                              ^
+Stan tasmy: b b b b b b b b b b b a a a a a a a a a c c c c c c c c c c c # 
+                                                            ^
+Stan tasmy: b b b b b b b b b b b a a a a a a a a a c c c c c c c c c c c # 
+                                                          ^
+Stan tasmy: b b b b b b b b b b b a a a a a a a a a c c c c c c c c c c c # 
+                                                        ^
+Stan tasmy: b b b b b b b b b b b a a a a a a a a a c c c c c c c c c c c # 
+                                                      ^
+Stan tasmy: b b b b b b b b b b b a a a a a a a a a c c c c c c c c c c c # 
+                                                    ^
+Stan tasmy: b b b b b b b b b b b a a a a a a a a a c c c c c c c c c c c # 
+                                                  ^
+Stan tasmy: b b b b b b b b b b b a a a a a a a a a c c c c c c c c c c c # 
+                                                ^
+Stan tasmy: b b b b b b b b b b b a a a a a a a a a c c c c c c c c c c c # 
+                                              ^
+Stan tasmy: b b b b b b b b b b b a a a a a a a a a c c c c c c c c c c c # 
+                                            ^
+Stan tasmy: b b b b b b b b b b b a a a a a a a a a c c c c c c c c c c c # 
+                                          ^
+Stan tasmy: b b b b b b b b b b b a a a a a a a a a c c c c c c c c c c c # 
+                                        ^
+Stan tasmy: b b b b b b b b b b b a a a a a a a a a c c c c c c c c c c c # 
+                                      ^
+Stan tasmy: b b b b b b b b b b b a a a a a a a a a c c c c c c c c c c c # 
+                                    ^
+Stan tasmy: b b b b b b b b b b b a a a a a a a a a c c c c c c c c c c c # 
+                                  ^
+Stan tasmy: b b b b b b b b b b b a a a a a a a a a c c c c c c c c c c c # 
+                                ^
+Stan tasmy: b b b b b b b b b b b a a a a a a a a a c c c c c c c c c c c # 
+                                  ^
+Stan tasmy: b b b b b b b b b b b b a a a a a a a a c c c c c c c c c c c # 
+                                    ^
+Stan tasmy: b b b b b b b b b b b b a a a a a a a a c c c c c c c c c c c # 
+                                      ^
+Stan tasmy: b b b b b b b b b b b b a a a a a a a a c c c c c c c c c c c # 
+                                        ^
+Stan tasmy: b b b b b b b b b b b b a a a a a a a a c c c c c c c c c c c # 
+                                          ^
+Stan tasmy: b b b b b b b b b b b b a a a a a a a a c c c c c c c c c c c # 
+                                            ^
+Stan tasmy: b b b b b b b b b b b b a a a a a a a a c c c c c c c c c c c # 
+                                              ^
+Stan tasmy: b b b b b b b b b b b b a a a a a a a a c c c c c c c c c c c # 
+                                                ^
+Stan tasmy: b b b b b b b b b b b b a a a a a a a a c c c c c c c c c c c # 
+                                                  ^
+Stan tasmy: b b b b b b b b b b b b a a a a a a a a c c c c c c c c c c c # 
+                                                    ^
+Stan tasmy: b b b b b b b b b b b b a a a a a a a a c c c c c c c c c c c # 
+                                                      ^
+Stan tasmy: b b b b b b b b b b b b a a a a a a a a c c c c c c c c c c c # 
+                                                        ^
+Stan tasmy: b b b b b b b b b b b b a a a a a a a a c c c c c c c c c c c # 
+                                                          ^
+Stan tasmy: b b b b b b b b b b b b a a a a a a a a c c c c c c c c c c c # 
+                                                            ^
+Stan tasmy: b b b b b b b b b b b b a a a a a a a a c c c c c c c c c c c # 
+                                                              ^
+Stan tasmy: b b b b b b b b b b b b a a a a a a a a c c c c c c c c c c c # 
+                                                                ^
+Stan tasmy: b b b b b b b b b b b b a a a a a a a a c c c c c c c c c c c # 
+                                                                  ^
+Stan tasmy: b b b b b b b b b b b b a a a a a a a a c c c c c c c c c c c # 
+                                                                    ^
+Stan tasmy: b b b b b b b b b b b b a a a a a a a a c c c c c c c c c c c # 
+                                                                      ^
+Stan tasmy: b b b b b b b b b b b b a a a a a a a a c c c c c c c c c c c # 
+                                                                        ^
+Stan tasmy: b b b b b b b b b b b b a a a a a a a a c c c c c c c c c c c # 
+                                                                          ^
+Stan tasmy: b b b b b b b b b b b b a a a a a a a a c c c c c c c c c c c c 
+                                                                        ^
+Stan tasmy: b b b b b b b b b b b b a a a a a a a a c c c c c c c c c c c c 
+                                                                      ^
+Stan tasmy: b b b b b b b b b b b b a a a a a a a a c c c c c c c c c c c c 
+                                                                    ^
+Stan tasmy: b b b b b b b b b b b b a a a a a a a a c c c c c c c c c c c c 
+                                                                  ^
+Stan tasmy: b b b b b b b b b b b b a a a a a a a a c c c c c c c c c c c c 
+                                                                ^
+Stan tasmy: b b b b b b b b b b b b a a a a a a a a c c c c c c c c c c c c 
+                                                              ^
+Stan tasmy: b b b b b b b b b b b b a a a a a a a a c c c c c c c c c c c c 
+                                                            ^
+Stan tasmy: b b b b b b b b b b b b a a a a a a a a c c c c c c c c c c c c 
+                                                          ^
+Stan tasmy: b b b b b b b b b b b b a a a a a a a a c c c c c c c c c c c c 
+                                                        ^
+Stan tasmy: b b b b b b b b b b b b a a a a a a a a c c c c c c c c c c c c 
+                                                      ^
+Stan tasmy: b b b b b b b b b b b b a a a a a a a a c c c c c c c c c c c c 
+                                                    ^
+Stan tasmy: b b b b b b b b b b b b a a a a a a a a c c c c c c c c c c c c 
+                                                  ^
+Stan tasmy: b b b b b b b b b b b b a a a a a a a a c c c c c c c c c c c c 
+                                                ^
+Stan tasmy: b b b b b b b b b b b b a a a a a a a a c c c c c c c c c c c c 
+                                              ^
+Stan tasmy: b b b b b b b b b b b b a a a a a a a a c c c c c c c c c c c c 
+                                            ^
+Stan tasmy: b b b b b b b b b b b b a a a a a a a a c c c c c c c c c c c c 
+                                          ^
+Stan tasmy: b b b b b b b b b b b b a a a a a a a a c c c c c c c c c c c c 
+                                        ^
+Stan tasmy: b b b b b b b b b b b b a a a a a a a a c c c c c c c c c c c c 
+                                      ^
+Stan tasmy: b b b b b b b b b b b b a a a a a a a a c c c c c c c c c c c c 
+                                    ^
+Stan tasmy: b b b b b b b b b b b b a a a a a a a a c c c c c c c c c c c c 
+                                  ^
+Stan tasmy: b b b b b b b b b b b b a a a a a a a a c c c c c c c c c c c c 
+                                    ^
+Stan tasmy: b b b b b b b b b b b b b a a a a a a a c c c c c c c c c c c c 
+                                      ^
+Stan tasmy: b b b b b b b b b b b b b a a a a a a a c c c c c c c c c c c c 
+                                        ^
+Stan tasmy: b b b b b b b b b b b b b a a a a a a a c c c c c c c c c c c c 
+                                          ^
+Stan tasmy: b b b b b b b b b b b b b a a a a a a a c c c c c c c c c c c c 
+                                            ^
+Stan tasmy: b b b b b b b b b b b b b a a a a a a a c c c c c c c c c c c c 
+                                              ^
+Stan tasmy: b b b b b b b b b b b b b a a a a a a a c c c c c c c c c c c c 
+                                                ^
+Stan tasmy: b b b b b b b b b b b b b a a a a a a a c c c c c c c c c c c c 
+                                                  ^
+Stan tasmy: b b b b b b b b b b b b b a a a a a a a c c c c c c c c c c c c 
+                                                    ^
+Stan tasmy: b b b b b b b b b b b b b a a a a a a a c c c c c c c c c c c c 
+                                                      ^
+Stan tasmy: b b b b b b b b b b b b b a a a a a a a c c c c c c c c c c c c 
+                                                        ^
+Stan tasmy: b b b b b b b b b b b b b a a a a a a a c c c c c c c c c c c c 
+                                                          ^
+Stan tasmy: b b b b b b b b b b b b b a a a a a a a c c c c c c c c c c c c 
+                                                            ^
+Stan tasmy: b b b b b b b b b b b b b a a a a a a a c c c c c c c c c c c c 
+                                                              ^
+Stan tasmy: b b b b b b b b b b b b b a a a a a a a c c c c c c c c c c c c 
+                                                                ^
+Stan tasmy: b b b b b b b b b b b b b a a a a a a a c c c c c c c c c c c c 
+                                                                  ^
+Stan tasmy: b b b b b b b b b b b b b a a a a a a a c c c c c c c c c c c c 
+                                                                    ^
+Stan tasmy: b b b b b b b b b b b b b a a a a a a a c c c c c c c c c c c c 
+                                                                      ^
+Stan tasmy: b b b b b b b b b b b b b a a a a a a a c c c c c c c c c c c c 
+                                                                        ^
+Stan tasmy: b b b b b b b b b b b b b a a a a a a a c c c c c c c c c c c c 
+                                                                          ^
+Nastepuje rozszerzenie tasmy w prawo
+Stan tasmy: b b b b b b b b b b b b b a a a a a a a c c c c c c c c c c c c # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # 
+                                                                            ^
+Stan tasmy: b b b b b b b b b b b b b a a a a a a a c c c c c c c c c c c c c # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # 
+                                                                          ^
+Stan tasmy: b b b b b b b b b b b b b a a a a a a a c c c c c c c c c c c c c # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # 
+                                                                        ^
+Stan tasmy: b b b b b b b b b b b b b a a a a a a a c c c c c c c c c c c c c # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # 
+                                                                      ^
+Stan tasmy: b b b b b b b b b b b b b a a a a a a a c c c c c c c c c c c c c # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # 
+                                                                    ^
+Stan tasmy: b b b b b b b b b b b b b a a a a a a a c c c c c c c c c c c c c # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # 
+                                                                  ^
+Stan tasmy: b b b b b b b b b b b b b a a a a a a a c c c c c c c c c c c c c # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # 
+                                                                ^
+Stan tasmy: b b b b b b b b b b b b b a a a a a a a c c c c c c c c c c c c c # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # 
+                                                              ^
+Stan tasmy: b b b b b b b b b b b b b a a a a a a a c c c c c c c c c c c c c # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # 
+                                                            ^
+Stan tasmy: b b b b b b b b b b b b b a a a a a a a c c c c c c c c c c c c c # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # 
+                                                          ^
+Stan tasmy: b b b b b b b b b b b b b a a a a a a a c c c c c c c c c c c c c # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # 
+                                                        ^
+Stan tasmy: b b b b b b b b b b b b b a a a a a a a c c c c c c c c c c c c c # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # 
+                                                      ^
+Stan tasmy: b b b b b b b b b b b b b a a a a a a a c c c c c c c c c c c c c # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # 
+                                                    ^
+Stan tasmy: b b b b b b b b b b b b b a a a a a a a c c c c c c c c c c c c c # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # 
+                                                  ^
+Stan tasmy: b b b b b b b b b b b b b a a a a a a a c c c c c c c c c c c c c # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # 
+                                                ^
+Stan tasmy: b b b b b b b b b b b b b a a a a a a a c c c c c c c c c c c c c # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # 
+                                              ^
+Stan tasmy: b b b b b b b b b b b b b a a a a a a a c c c c c c c c c c c c c # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # 
+                                            ^
+Stan tasmy: b b b b b b b b b b b b b a a a a a a a c c c c c c c c c c c c c # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # 
+                                          ^
+Stan tasmy: b b b b b b b b b b b b b a a a a a a a c c c c c c c c c c c c c # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # 
+                                        ^
+Stan tasmy: b b b b b b b b b b b b b a a a a a a a c c c c c c c c c c c c c # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # 
+                                      ^
+Stan tasmy: b b b b b b b b b b b b b a a a a a a a c c c c c c c c c c c c c # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # 
+                                    ^
+Stan tasmy: b b b b b b b b b b b b b a a a a a a a c c c c c c c c c c c c c # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # 
+                                      ^
+Stan tasmy: b b b b b b b b b b b b b b a a a a a a c c c c c c c c c c c c c # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # 
+                                        ^
+Stan tasmy: b b b b b b b b b b b b b b a a a a a a c c c c c c c c c c c c c # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # 
+                                          ^
+Stan tasmy: b b b b b b b b b b b b b b a a a a a a c c c c c c c c c c c c c # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # 
+                                            ^
+Stan tasmy: b b b b b b b b b b b b b b a a a a a a c c c c c c c c c c c c c # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # 
+                                              ^
+Stan tasmy: b b b b b b b b b b b b b b a a a a a a c c c c c c c c c c c c c # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # 
+                                                ^
+Stan tasmy: b b b b b b b b b b b b b b a a a a a a c c c c c c c c c c c c c # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # 
+                                                  ^
+Stan tasmy: b b b b b b b b b b b b b b a a a a a a c c c c c c c c c c c c c # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # 
+                                                    ^
+Stan tasmy: b b b b b b b b b b b b b b a a a a a a c c c c c c c c c c c c c # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # 
+                                                      ^
+Stan tasmy: b b b b b b b b b b b b b b a a a a a a c c c c c c c c c c c c c # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # 
+                                                        ^
+Stan tasmy: b b b b b b b b b b b b b b a a a a a a c c c c c c c c c c c c c # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # 
+                                                          ^
+Stan tasmy: b b b b b b b b b b b b b b a a a a a a c c c c c c c c c c c c c # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # 
+                                                            ^
+Stan tasmy: b b b b b b b b b b b b b b a a a a a a c c c c c c c c c c c c c # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # 
+                                                              ^
+Stan tasmy: b b b b b b b b b b b b b b a a a a a a c c c c c c c c c c c c c # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # 
+                                                                ^
+Stan tasmy: b b b b b b b b b b b b b b a a a a a a c c c c c c c c c c c c c # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # 
+                                                                  ^
+Stan tasmy: b b b b b b b b b b b b b b a a a a a a c c c c c c c c c c c c c # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # 
+                                                                    ^
+Stan tasmy: b b b b b b b b b b b b b b a a a a a a c c c c c c c c c c c c c # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # 
+                                                                      ^
+Stan tasmy: b b b b b b b b b b b b b b a a a a a a c c c c c c c c c c c c c # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # 
+                                                                        ^
+Stan tasmy: b b b b b b b b b b b b b b a a a a a a c c c c c c c c c c c c c # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # 
+                                                                          ^
+Stan tasmy: b b b b b b b b b b b b b b a a a a a a c c c c c c c c c c c c c # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # 
+                                                                            ^
+Stan tasmy: b b b b b b b b b b b b b b a a a a a a c c c c c c c c c c c c c # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # 
+                                                                              ^
+Stan tasmy: b b b b b b b b b b b b b b a a a a a a c c c c c c c c c c c c c c # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # 
+                                                                            ^
+Stan tasmy: b b b b b b b b b b b b b b a a a a a a c c c c c c c c c c c c c c # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # 
+                                                                          ^
+Stan tasmy: b b b b b b b b b b b b b b a a a a a a c c c c c c c c c c c c c c # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # 
+                                                                        ^
+Stan tasmy: b b b b b b b b b b b b b b a a a a a a c c c c c c c c c c c c c c # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # 
+                                                                      ^
+Stan tasmy: b b b b b b b b b b b b b b a a a a a a c c c c c c c c c c c c c c # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # 
+                                                                    ^
+Stan tasmy: b b b b b b b b b b b b b b a a a a a a c c c c c c c c c c c c c c # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # 
+                                                                  ^
+Stan tasmy: b b b b b b b b b b b b b b a a a a a a c c c c c c c c c c c c c c # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # 
+                                                                ^
+Stan tasmy: b b b b b b b b b b b b b b a a a a a a c c c c c c c c c c c c c c # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # 
+                                                              ^
+Stan tasmy: b b b b b b b b b b b b b b a a a a a a c c c c c c c c c c c c c c # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # 
+                                                            ^
+Stan tasmy: b b b b b b b b b b b b b b a a a a a a c c c c c c c c c c c c c c # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # 
+                                                          ^
+Stan tasmy: b b b b b b b b b b b b b b a a a a a a c c c c c c c c c c c c c c # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # 
+                                                        ^
+Stan tasmy: b b b b b b b b b b b b b b a a a a a a c c c c c c c c c c c c c c # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # 
+                                                      ^
+Stan tasmy: b b b b b b b b b b b b b b a a a a a a c c c c c c c c c c c c c c # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # 
+                                                    ^
+Stan tasmy: b b b b b b b b b b b b b b a a a a a a c c c c c c c c c c c c c c # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # 
+                                                  ^
+Stan tasmy: b b b b b b b b b b b b b b a a a a a a c c c c c c c c c c c c c c # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # 
+                                                ^
+Stan tasmy: b b b b b b b b b b b b b b a a a a a a c c c c c c c c c c c c c c # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # 
+                                              ^
+Stan tasmy: b b b b b b b b b b b b b b a a a a a a c c c c c c c c c c c c c c # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # 
+                                            ^
+Stan tasmy: b b b b b b b b b b b b b b a a a a a a c c c c c c c c c c c c c c # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # 
+                                          ^
+Stan tasmy: b b b b b b b b b b b b b b a a a a a a c c c c c c c c c c c c c c # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # 
+                                        ^
+Stan tasmy: b b b b b b b b b b b b b b a a a a a a c c c c c c c c c c c c c c # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # 
+                                      ^
+Stan tasmy: b b b b b b b b b b b b b b a a a a a a c c c c c c c c c c c c c c # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # 
+                                        ^
+Stan tasmy: b b b b b b b b b b b b b b b a a a a a c c c c c c c c c c c c c c # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # 
+                                          ^
+Stan tasmy: b b b b b b b b b b b b b b b a a a a a c c c c c c c c c c c c c c # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # 
+                                            ^
+Stan tasmy: b b b b b b b b b b b b b b b a a a a a c c c c c c c c c c c c c c # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # 
+                                              ^
+Stan tasmy: b b b b b b b b b b b b b b b a a a a a c c c c c c c c c c c c c c # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # 
+                                                ^
+Stan tasmy: b b b b b b b b b b b b b b b a a a a a c c c c c c c c c c c c c c # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # 
+                                                  ^
+Stan tasmy: b b b b b b b b b b b b b b b a a a a a c c c c c c c c c c c c c c # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # 
+                                                    ^
+Stan tasmy: b b b b b b b b b b b b b b b a a a a a c c c c c c c c c c c c c c # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # 
+                                                      ^
+Stan tasmy: b b b b b b b b b b b b b b b a a a a a c c c c c c c c c c c c c c # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # 
+                                                        ^
+Stan tasmy: b b b b b b b b b b b b b b b a a a a a c c c c c c c c c c c c c c # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # 
+                                                          ^
+Stan tasmy: b b b b b b b b b b b b b b b a a a a a c c c c c c c c c c c c c c # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # 
+                                                            ^
+Stan tasmy: b b b b b b b b b b b b b b b a a a a a c c c c c c c c c c c c c c # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # 
+                                                              ^
+Stan tasmy: b b b b b b b b b b b b b b b a a a a a c c c c c c c c c c c c c c # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # 
+                                                                ^
+Stan tasmy: b b b b b b b b b b b b b b b a a a a a c c c c c c c c c c c c c c # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # 
+                                                                  ^
+Stan tasmy: b b b b b b b b b b b b b b b a a a a a c c c c c c c c c c c c c c # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # 
+                                                                    ^
+Stan tasmy: b b b b b b b b b b b b b b b a a a a a c c c c c c c c c c c c c c # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # 
+                                                                      ^
+Stan tasmy: b b b b b b b b b b b b b b b a a a a a c c c c c c c c c c c c c c # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # 
+                                                                        ^
+Stan tasmy: b b b b b b b b b b b b b b b a a a a a c c c c c c c c c c c c c c # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # 
+                                                                          ^
+Stan tasmy: b b b b b b b b b b b b b b b a a a a a c c c c c c c c c c c c c c # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # 
+                                                                            ^
+Stan tasmy: b b b b b b b b b b b b b b b a a a a a c c c c c c c c c c c c c c # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # 
+                                                                              ^
+Stan tasmy: b b b b b b b b b b b b b b b a a a a a c c c c c c c c c c c c c c # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # 
+                                                                                ^
+Stan tasmy: b b b b b b b b b b b b b b b a a a a a c c c c c c c c c c c c c c c # # # # # # # # # # # # # # # # # # # # # # # # # # # # # 
+                                                                              ^
+Stan tasmy: b b b b b b b b b b b b b b b a a a a a c c c c c c c c c c c c c c c # # # # # # # # # # # # # # # # # # # # # # # # # # # # # 
+                                                                            ^
+Stan tasmy: b b b b b b b b b b b b b b b a a a a a c c c c c c c c c c c c c c c # # # # # # # # # # # # # # # # # # # # # # # # # # # # # 
+                                                                          ^
+Stan tasmy: b b b b b b b b b b b b b b b a a a a a c c c c c c c c c c c c c c c # # # # # # # # # # # # # # # # # # # # # # # # # # # # # 
+                                                                        ^
+Stan tasmy: b b b b b b b b b b b b b b b a a a a a c c c c c c c c c c c c c c c # # # # # # # # # # # # # # # # # # # # # # # # # # # # # 
+                                                                      ^
+Stan tasmy: b b b b b b b b b b b b b b b a a a a a c c c c c c c c c c c c c c c # # # # # # # # # # # # # # # # # # # # # # # # # # # # # 
+                                                                    ^
+Stan tasmy: b b b b b b b b b b b b b b b a a a a a c c c c c c c c c c c c c c c # # # # # # # # # # # # # # # # # # # # # # # # # # # # # 
+                                                                  ^
+Stan tasmy: b b b b b b b b b b b b b b b a a a a a c c c c c c c c c c c c c c c # # # # # # # # # # # # # # # # # # # # # # # # # # # # # 
+                                                                ^
+Stan tasmy: b b b b b b b b b b b b b b b a a a a a c c c c c c c c c c c c c c c # # # # # # # # # # # # # # # # # # # # # # # # # # # # # 
+                                                              ^
+Stan tasmy: b b b b b b b b b b b b b b b a a a a a c c c c c c c c c c c c c c c # # # # # # # # # # # # # # # # # # # # # # # # # # # # # 
+                                                            ^
+Stan tasmy: b b b b b b b b b b b b b b b a a a a a c c c c c c c c c c c c c c c # # # # # # # # # # # # # # # # # # # # # # # # # # # # # 
+                                                          ^
+Stan tasmy: b b b b b b b b b b b b b b b a a a a a c c c c c c c c c c c c c c c # # # # # # # # # # # # # # # # # # # # # # # # # # # # # 
+                                                        ^
+Stan tasmy: b b b b b b b b b b b b b b b a a a a a c c c c c c c c c c c c c c c # # # # # # # # # # # # # # # # # # # # # # # # # # # # # 
+                                                      ^
+Stan tasmy: b b b b b b b b b b b b b b b a a a a a c c c c c c c c c c c c c c c # # # # # # # # # # # # # # # # # # # # # # # # # # # # # 
+                                                    ^
+Stan tasmy: b b b b b b b b b b b b b b b a a a a a c c c c c c c c c c c c c c c # # # # # # # # # # # # # # # # # # # # # # # # # # # # # 
+                                                  ^
+Stan tasmy: b b b b b b b b b b b b b b b a a a a a c c c c c c c c c c c c c c c # # # # # # # # # # # # # # # # # # # # # # # # # # # # # 
+                                                ^
+Stan tasmy: b b b b b b b b b b b b b b b a a a a a c c c c c c c c c c c c c c c # # # # # # # # # # # # # # # # # # # # # # # # # # # # # 
+                                              ^
+Stan tasmy: b b b b b b b b b b b b b b b a a a a a c c c c c c c c c c c c c c c # # # # # # # # # # # # # # # # # # # # # # # # # # # # # 
+                                            ^
+Stan tasmy: b b b b b b b b b b b b b b b a a a a a c c c c c c c c c c c c c c c # # # # # # # # # # # # # # # # # # # # # # # # # # # # # 
+                                          ^
+Stan tasmy: b b b b b b b b b b b b b b b a a a a a c c c c c c c c c c c c c c c # # # # # # # # # # # # # # # # # # # # # # # # # # # # # 
+                                        ^
+Stan tasmy: b b b b b b b b b b b b b b b a a a a a c c c c c c c c c c c c c c c # # # # # # # # # # # # # # # # # # # # # # # # # # # # # 
+                                          ^
+Stan tasmy: b b b b b b b b b b b b b b b b a a a a c c c c c c c c c c c c c c c # # # # # # # # # # # # # # # # # # # # # # # # # # # # # 
+                                            ^
+Stan tasmy: b b b b b b b b b b b b b b b b a a a a c c c c c c c c c c c c c c c # # # # # # # # # # # # # # # # # # # # # # # # # # # # # 
+                                              ^
+Stan tasmy: b b b b b b b b b b b b b b b b a a a a c c c c c c c c c c c c c c c # # # # # # # # # # # # # # # # # # # # # # # # # # # # # 
+                                                ^
+Stan tasmy: b b b b b b b b b b b b b b b b a a a a c c c c c c c c c c c c c c c # # # # # # # # # # # # # # # # # # # # # # # # # # # # # 
+                                                  ^
+Stan tasmy: b b b b b b b b b b b b b b b b a a a a c c c c c c c c c c c c c c c # # # # # # # # # # # # # # # # # # # # # # # # # # # # # 
+                                                    ^
+Stan tasmy: b b b b b b b b b b b b b b b b a a a a c c c c c c c c c c c c c c c # # # # # # # # # # # # # # # # # # # # # # # # # # # # # 
+                                                      ^
+Stan tasmy: b b b b b b b b b b b b b b b b a a a a c c c c c c c c c c c c c c c # # # # # # # # # # # # # # # # # # # # # # # # # # # # # 
+                                                        ^
+Stan tasmy: b b b b b b b b b b b b b b b b a a a a c c c c c c c c c c c c c c c # # # # # # # # # # # # # # # # # # # # # # # # # # # # # 
+                                                          ^
+Stan tasmy: b b b b b b b b b b b b b b b b a a a a c c c c c c c c c c c c c c c # # # # # # # # # # # # # # # # # # # # # # # # # # # # # 
+                                                            ^
+Stan tasmy: b b b b b b b b b b b b b b b b a a a a c c c c c c c c c c c c c c c # # # # # # # # # # # # # # # # # # # # # # # # # # # # # 
+                                                              ^
+Stan tasmy: b b b b b b b b b b b b b b b b a a a a c c c c c c c c c c c c c c c # # # # # # # # # # # # # # # # # # # # # # # # # # # # # 
+                                                                ^
+Stan tasmy: b b b b b b b b b b b b b b b b a a a a c c c c c c c c c c c c c c c # # # # # # # # # # # # # # # # # # # # # # # # # # # # # 
+                                                                  ^
+Stan tasmy: b b b b b b b b b b b b b b b b a a a a c c c c c c c c c c c c c c c # # # # # # # # # # # # # # # # # # # # # # # # # # # # # 
+                                                                    ^
+Stan tasmy: b b b b b b b b b b b b b b b b a a a a c c c c c c c c c c c c c c c # # # # # # # # # # # # # # # # # # # # # # # # # # # # # 
+                                                                      ^
+Stan tasmy: b b b b b b b b b b b b b b b b a a a a c c c c c c c c c c c c c c c # # # # # # # # # # # # # # # # # # # # # # # # # # # # # 
+                                                                        ^
+Stan tasmy: b b b b b b b b b b b b b b b b a a a a c c c c c c c c c c c c c c c # # # # # # # # # # # # # # # # # # # # # # # # # # # # # 
+                                                                          ^
+Stan tasmy: b b b b b b b b b b b b b b b b a a a a c c c c c c c c c c c c c c c # # # # # # # # # # # # # # # # # # # # # # # # # # # # # 
+                                                                            ^
+Stan tasmy: b b b b b b b b b b b b b b b b a a a a c c c c c c c c c c c c c c c # # # # # # # # # # # # # # # # # # # # # # # # # # # # # 
+                                                                              ^
+Stan tasmy: b b b b b b b b b b b b b b b b a a a a c c c c c c c c c c c c c c c # # # # # # # # # # # # # # # # # # # # # # # # # # # # # 
+                                                                                ^
+Stan tasmy: b b b b b b b b b b b b b b b b a a a a c c c c c c c c c c c c c c c # # # # # # # # # # # # # # # # # # # # # # # # # # # # # 
+                                                                                  ^
+Stan tasmy: b b b b b b b b b b b b b b b b a a a a c c c c c c c c c c c c c c c c # # # # # # # # # # # # # # # # # # # # # # # # # # # # 
+                                                                                ^
+Stan tasmy: b b b b b b b b b b b b b b b b a a a a c c c c c c c c c c c c c c c c # # # # # # # # # # # # # # # # # # # # # # # # # # # # 
+                                                                              ^
+Stan tasmy: b b b b b b b b b b b b b b b b a a a a c c c c c c c c c c c c c c c c # # # # # # # # # # # # # # # # # # # # # # # # # # # # 
+                                                                            ^
+Stan tasmy: b b b b b b b b b b b b b b b b a a a a c c c c c c c c c c c c c c c c # # # # # # # # # # # # # # # # # # # # # # # # # # # # 
+                                                                          ^
+Stan tasmy: b b b b b b b b b b b b b b b b a a a a c c c c c c c c c c c c c c c c # # # # # # # # # # # # # # # # # # # # # # # # # # # # 
+                                                                        ^
+Stan tasmy: b b b b b b b b b b b b b b b b a a a a c c c c c c c c c c c c c c c c # # # # # # # # # # # # # # # # # # # # # # # # # # # # 
+                                                                      ^
+Stan tasmy: b b b b b b b b b b b b b b b b a a a a c c c c c c c c c c c c c c c c # # # # # # # # # # # # # # # # # # # # # # # # # # # # 
+                                                                    ^
+Stan tasmy: b b b b b b b b b b b b b b b b a a a a c c c c c c c c c c c c c c c c # # # # # # # # # # # # # # # # # # # # # # # # # # # # 
+                                                                  ^
+Stan tasmy: b b b b b b b b b b b b b b b b a a a a c c c c c c c c c c c c c c c c # # # # # # # # # # # # # # # # # # # # # # # # # # # # 
+                                                                ^
+Stan tasmy: b b b b b b b b b b b b b b b b a a a a c c c c c c c c c c c c c c c c # # # # # # # # # # # # # # # # # # # # # # # # # # # # 
+                                                              ^
+Stan tasmy: b b b b b b b b b b b b b b b b a a a a c c c c c c c c c c c c c c c c # # # # # # # # # # # # # # # # # # # # # # # # # # # # 
+                                                            ^
+Stan tasmy: b b b b b b b b b b b b b b b b a a a a c c c c c c c c c c c c c c c c # # # # # # # # # # # # # # # # # # # # # # # # # # # # 
+                                                          ^
+Stan tasmy: b b b b b b b b b b b b b b b b a a a a c c c c c c c c c c c c c c c c # # # # # # # # # # # # # # # # # # # # # # # # # # # # 
+                                                        ^
+Stan tasmy: b b b b b b b b b b b b b b b b a a a a c c c c c c c c c c c c c c c c # # # # # # # # # # # # # # # # # # # # # # # # # # # # 
+                                                      ^
+Stan tasmy: b b b b b b b b b b b b b b b b a a a a c c c c c c c c c c c c c c c c # # # # # # # # # # # # # # # # # # # # # # # # # # # # 
+                                                    ^
+Stan tasmy: b b b b b b b b b b b b b b b b a a a a c c c c c c c c c c c c c c c c # # # # # # # # # # # # # # # # # # # # # # # # # # # # 
+                                                  ^
+Stan tasmy: b b b b b b b b b b b b b b b b a a a a c c c c c c c c c c c c c c c c # # # # # # # # # # # # # # # # # # # # # # # # # # # # 
+                                                ^
+Stan tasmy: b b b b b b b b b b b b b b b b a a a a c c c c c c c c c c c c c c c c # # # # # # # # # # # # # # # # # # # # # # # # # # # # 
+                                              ^
+Stan tasmy: b b b b b b b b b b b b b b b b a a a a c c c c c c c c c c c c c c c c # # # # # # # # # # # # # # # # # # # # # # # # # # # # 
+                                            ^
+Stan tasmy: b b b b b b b b b b b b b b b b a a a a c c c c c c c c c c c c c c c c # # # # # # # # # # # # # # # # # # # # # # # # # # # # 
+                                          ^
+Stan tasmy: b b b b b b b b b b b b b b b b a a a a c c c c c c c c c c c c c c c c # # # # # # # # # # # # # # # # # # # # # # # # # # # # 
+                                            ^
+Stan tasmy: b b b b b b b b b b b b b b b b b a a a c c c c c c c c c c c c c c c c # # # # # # # # # # # # # # # # # # # # # # # # # # # # 
+                                              ^
+Stan tasmy: b b b b b b b b b b b b b b b b b a a a c c c c c c c c c c c c c c c c # # # # # # # # # # # # # # # # # # # # # # # # # # # # 
+                                                ^
+Stan tasmy: b b b b b b b b b b b b b b b b b a a a c c c c c c c c c c c c c c c c # # # # # # # # # # # # # # # # # # # # # # # # # # # # 
+                                                  ^
+Stan tasmy: b b b b b b b b b b b b b b b b b a a a c c c c c c c c c c c c c c c c # # # # # # # # # # # # # # # # # # # # # # # # # # # # 
+                                                    ^
+Stan tasmy: b b b b b b b b b b b b b b b b b a a a c c c c c c c c c c c c c c c c # # # # # # # # # # # # # # # # # # # # # # # # # # # # 
+                                                      ^
+Stan tasmy: b b b b b b b b b b b b b b b b b a a a c c c c c c c c c c c c c c c c # # # # # # # # # # # # # # # # # # # # # # # # # # # # 
+                                                        ^
+Stan tasmy: b b b b b b b b b b b b b b b b b a a a c c c c c c c c c c c c c c c c # # # # # # # # # # # # # # # # # # # # # # # # # # # # 
+                                                          ^
+Stan tasmy: b b b b b b b b b b b b b b b b b a a a c c c c c c c c c c c c c c c c # # # # # # # # # # # # # # # # # # # # # # # # # # # # 
+                                                            ^
+Stan tasmy: b b b b b b b b b b b b b b b b b a a a c c c c c c c c c c c c c c c c # # # # # # # # # # # # # # # # # # # # # # # # # # # # 
+                                                              ^
+Stan tasmy: b b b b b b b b b b b b b b b b b a a a c c c c c c c c c c c c c c c c # # # # # # # # # # # # # # # # # # # # # # # # # # # # 
+                                                                ^
+Stan tasmy: b b b b b b b b b b b b b b b b b a a a c c c c c c c c c c c c c c c c # # # # # # # # # # # # # # # # # # # # # # # # # # # # 
+                                                                  ^
+Stan tasmy: b b b b b b b b b b b b b b b b b a a a c c c c c c c c c c c c c c c c # # # # # # # # # # # # # # # # # # # # # # # # # # # # 
+                                                                    ^
+Stan tasmy: b b b b b b b b b b b b b b b b b a a a c c c c c c c c c c c c c c c c # # # # # # # # # # # # # # # # # # # # # # # # # # # # 
+                                                                      ^
+Stan tasmy: b b b b b b b b b b b b b b b b b a a a c c c c c c c c c c c c c c c c # # # # # # # # # # # # # # # # # # # # # # # # # # # # 
+                                                                        ^
+Stan tasmy: b b b b b b b b b b b b b b b b b a a a c c c c c c c c c c c c c c c c # # # # # # # # # # # # # # # # # # # # # # # # # # # # 
+                                                                          ^
+Stan tasmy: b b b b b b b b b b b b b b b b b a a a c c c c c c c c c c c c c c c c # # # # # # # # # # # # # # # # # # # # # # # # # # # # 
+                                                                            ^
+Stan tasmy: b b b b b b b b b b b b b b b b b a a a c c c c c c c c c c c c c c c c # # # # # # # # # # # # # # # # # # # # # # # # # # # # 
+                                                                              ^
+Stan tasmy: b b b b b b b b b b b b b b b b b a a a c c c c c c c c c c c c c c c c # # # # # # # # # # # # # # # # # # # # # # # # # # # # 
+                                                                                ^
+Stan tasmy: b b b b b b b b b b b b b b b b b a a a c c c c c c c c c c c c c c c c # # # # # # # # # # # # # # # # # # # # # # # # # # # # 
+                                                                                  ^
+Stan tasmy: b b b b b b b b b b b b b b b b b a a a c c c c c c c c c c c c c c c c # # # # # # # # # # # # # # # # # # # # # # # # # # # # 
+                                                                                    ^
+Stan tasmy: b b b b b b b b b b b b b b b b b a a a c c c c c c c c c c c c c c c c c # # # # # # # # # # # # # # # # # # # # # # # # # # # 
+                                                                                  ^
+Stan tasmy: b b b b b b b b b b b b b b b b b a a a c c c c c c c c c c c c c c c c c # # # # # # # # # # # # # # # # # # # # # # # # # # # 
+                                                                                ^
+Stan tasmy: b b b b b b b b b b b b b b b b b a a a c c c c c c c c c c c c c c c c c # # # # # # # # # # # # # # # # # # # # # # # # # # # 
+                                                                              ^
+Stan tasmy: b b b b b b b b b b b b b b b b b a a a c c c c c c c c c c c c c c c c c # # # # # # # # # # # # # # # # # # # # # # # # # # # 
+                                                                            ^
+Stan tasmy: b b b b b b b b b b b b b b b b b a a a c c c c c c c c c c c c c c c c c # # # # # # # # # # # # # # # # # # # # # # # # # # # 
+                                                                          ^
+Stan tasmy: b b b b b b b b b b b b b b b b b a a a c c c c c c c c c c c c c c c c c # # # # # # # # # # # # # # # # # # # # # # # # # # # 
+                                                                        ^
+Stan tasmy: b b b b b b b b b b b b b b b b b a a a c c c c c c c c c c c c c c c c c # # # # # # # # # # # # # # # # # # # # # # # # # # # 
+                                                                      ^
+Stan tasmy: b b b b b b b b b b b b b b b b b a a a c c c c c c c c c c c c c c c c c # # # # # # # # # # # # # # # # # # # # # # # # # # # 
+                                                                    ^
+Stan tasmy: b b b b b b b b b b b b b b b b b a a a c c c c c c c c c c c c c c c c c # # # # # # # # # # # # # # # # # # # # # # # # # # # 
+                                                                  ^
+Stan tasmy: b b b b b b b b b b b b b b b b b a a a c c c c c c c c c c c c c c c c c # # # # # # # # # # # # # # # # # # # # # # # # # # # 
+                                                                ^
+Stan tasmy: b b b b b b b b b b b b b b b b b a a a c c c c c c c c c c c c c c c c c # # # # # # # # # # # # # # # # # # # # # # # # # # # 
+                                                              ^
+Stan tasmy: b b b b b b b b b b b b b b b b b a a a c c c c c c c c c c c c c c c c c # # # # # # # # # # # # # # # # # # # # # # # # # # # 
+                                                            ^
+Stan tasmy: b b b b b b b b b b b b b b b b b a a a c c c c c c c c c c c c c c c c c # # # # # # # # # # # # # # # # # # # # # # # # # # # 
+                                                          ^
+Stan tasmy: b b b b b b b b b b b b b b b b b a a a c c c c c c c c c c c c c c c c c # # # # # # # # # # # # # # # # # # # # # # # # # # # 
+                                                        ^
+Stan tasmy: b b b b b b b b b b b b b b b b b a a a c c c c c c c c c c c c c c c c c # # # # # # # # # # # # # # # # # # # # # # # # # # # 
+                                                      ^
+Stan tasmy: b b b b b b b b b b b b b b b b b a a a c c c c c c c c c c c c c c c c c # # # # # # # # # # # # # # # # # # # # # # # # # # # 
+                                                    ^
+Stan tasmy: b b b b b b b b b b b b b b b b b a a a c c c c c c c c c c c c c c c c c # # # # # # # # # # # # # # # # # # # # # # # # # # # 
+                                                  ^
+Stan tasmy: b b b b b b b b b b b b b b b b b a a a c c c c c c c c c c c c c c c c c # # # # # # # # # # # # # # # # # # # # # # # # # # # 
+                                                ^
+Stan tasmy: b b b b b b b b b b b b b b b b b a a a c c c c c c c c c c c c c c c c c # # # # # # # # # # # # # # # # # # # # # # # # # # # 
+                                              ^
+Stan tasmy: b b b b b b b b b b b b b b b b b a a a c c c c c c c c c c c c c c c c c # # # # # # # # # # # # # # # # # # # # # # # # # # # 
+                                            ^
+Stan tasmy: b b b b b b b b b b b b b b b b b a a a c c c c c c c c c c c c c c c c c # # # # # # # # # # # # # # # # # # # # # # # # # # # 
+                                              ^
+Stan tasmy: b b b b b b b b b b b b b b b b b b a a c c c c c c c c c c c c c c c c c # # # # # # # # # # # # # # # # # # # # # # # # # # # 
+                                                ^
+Stan tasmy: b b b b b b b b b b b b b b b b b b a a c c c c c c c c c c c c c c c c c # # # # # # # # # # # # # # # # # # # # # # # # # # # 
+                                                  ^
+Stan tasmy: b b b b b b b b b b b b b b b b b b a a c c c c c c c c c c c c c c c c c # # # # # # # # # # # # # # # # # # # # # # # # # # # 
+                                                    ^
+Stan tasmy: b b b b b b b b b b b b b b b b b b a a c c c c c c c c c c c c c c c c c # # # # # # # # # # # # # # # # # # # # # # # # # # # 
+                                                      ^
+Stan tasmy: b b b b b b b b b b b b b b b b b b a a c c c c c c c c c c c c c c c c c # # # # # # # # # # # # # # # # # # # # # # # # # # # 
+                                                        ^
+Stan tasmy: b b b b b b b b b b b b b b b b b b a a c c c c c c c c c c c c c c c c c # # # # # # # # # # # # # # # # # # # # # # # # # # # 
+                                                          ^
+Stan tasmy: b b b b b b b b b b b b b b b b b b a a c c c c c c c c c c c c c c c c c # # # # # # # # # # # # # # # # # # # # # # # # # # # 
+                                                            ^
+Stan tasmy: b b b b b b b b b b b b b b b b b b a a c c c c c c c c c c c c c c c c c # # # # # # # # # # # # # # # # # # # # # # # # # # # 
+                                                              ^
+Stan tasmy: b b b b b b b b b b b b b b b b b b a a c c c c c c c c c c c c c c c c c # # # # # # # # # # # # # # # # # # # # # # # # # # # 
+                                                                ^
+Stan tasmy: b b b b b b b b b b b b b b b b b b a a c c c c c c c c c c c c c c c c c # # # # # # # # # # # # # # # # # # # # # # # # # # # 
+                                                                  ^
+Stan tasmy: b b b b b b b b b b b b b b b b b b a a c c c c c c c c c c c c c c c c c # # # # # # # # # # # # # # # # # # # # # # # # # # # 
+                                                                    ^
+Stan tasmy: b b b b b b b b b b b b b b b b b b a a c c c c c c c c c c c c c c c c c # # # # # # # # # # # # # # # # # # # # # # # # # # # 
+                                                                      ^
+Stan tasmy: b b b b b b b b b b b b b b b b b b a a c c c c c c c c c c c c c c c c c # # # # # # # # # # # # # # # # # # # # # # # # # # # 
+                                                                        ^
+Stan tasmy: b b b b b b b b b b b b b b b b b b a a c c c c c c c c c c c c c c c c c # # # # # # # # # # # # # # # # # # # # # # # # # # # 
+                                                                          ^
+Stan tasmy: b b b b b b b b b b b b b b b b b b a a c c c c c c c c c c c c c c c c c # # # # # # # # # # # # # # # # # # # # # # # # # # # 
+                                                                            ^
+Stan tasmy: b b b b b b b b b b b b b b b b b b a a c c c c c c c c c c c c c c c c c # # # # # # # # # # # # # # # # # # # # # # # # # # # 
+                                                                              ^
+Stan tasmy: b b b b b b b b b b b b b b b b b b a a c c c c c c c c c c c c c c c c c # # # # # # # # # # # # # # # # # # # # # # # # # # # 
+                                                                                ^
+Stan tasmy: b b b b b b b b b b b b b b b b b b a a c c c c c c c c c c c c c c c c c # # # # # # # # # # # # # # # # # # # # # # # # # # # 
+                                                                                  ^
+Stan tasmy: b b b b b b b b b b b b b b b b b b a a c c c c c c c c c c c c c c c c c # # # # # # # # # # # # # # # # # # # # # # # # # # # 
+                                                                                    ^
+Stan tasmy: b b b b b b b b b b b b b b b b b b a a c c c c c c c c c c c c c c c c c # # # # # # # # # # # # # # # # # # # # # # # # # # # 
+                                                                                      ^
+Stan tasmy: b b b b b b b b b b b b b b b b b b a a c c c c c c c c c c c c c c c c c c # # # # # # # # # # # # # # # # # # # # # # # # # # 
+                                                                                    ^
+Stan tasmy: b b b b b b b b b b b b b b b b b b a a c c c c c c c c c c c c c c c c c c # # # # # # # # # # # # # # # # # # # # # # # # # # 
+                                                                                  ^
+Stan tasmy: b b b b b b b b b b b b b b b b b b a a c c c c c c c c c c c c c c c c c c # # # # # # # # # # # # # # # # # # # # # # # # # # 
+                                                                                ^
+Stan tasmy: b b b b b b b b b b b b b b b b b b a a c c c c c c c c c c c c c c c c c c # # # # # # # # # # # # # # # # # # # # # # # # # # 
+                                                                              ^
+Stan tasmy: b b b b b b b b b b b b b b b b b b a a c c c c c c c c c c c c c c c c c c # # # # # # # # # # # # # # # # # # # # # # # # # # 
+                                                                            ^
+Stan tasmy: b b b b b b b b b b b b b b b b b b a a c c c c c c c c c c c c c c c c c c # # # # # # # # # # # # # # # # # # # # # # # # # # 
+                                                                          ^
+Stan tasmy: b b b b b b b b b b b b b b b b b b a a c c c c c c c c c c c c c c c c c c # # # # # # # # # # # # # # # # # # # # # # # # # # 
+                                                                        ^
+Stan tasmy: b b b b b b b b b b b b b b b b b b a a c c c c c c c c c c c c c c c c c c # # # # # # # # # # # # # # # # # # # # # # # # # # 
+                                                                      ^
+Stan tasmy: b b b b b b b b b b b b b b b b b b a a c c c c c c c c c c c c c c c c c c # # # # # # # # # # # # # # # # # # # # # # # # # # 
+                                                                    ^
+Stan tasmy: b b b b b b b b b b b b b b b b b b a a c c c c c c c c c c c c c c c c c c # # # # # # # # # # # # # # # # # # # # # # # # # # 
+                                                                  ^
+Stan tasmy: b b b b b b b b b b b b b b b b b b a a c c c c c c c c c c c c c c c c c c # # # # # # # # # # # # # # # # # # # # # # # # # # 
+                                                                ^
+Stan tasmy: b b b b b b b b b b b b b b b b b b a a c c c c c c c c c c c c c c c c c c # # # # # # # # # # # # # # # # # # # # # # # # # # 
+                                                              ^
+Stan tasmy: b b b b b b b b b b b b b b b b b b a a c c c c c c c c c c c c c c c c c c # # # # # # # # # # # # # # # # # # # # # # # # # # 
+                                                            ^
+Stan tasmy: b b b b b b b b b b b b b b b b b b a a c c c c c c c c c c c c c c c c c c # # # # # # # # # # # # # # # # # # # # # # # # # # 
+                                                          ^
+Stan tasmy: b b b b b b b b b b b b b b b b b b a a c c c c c c c c c c c c c c c c c c # # # # # # # # # # # # # # # # # # # # # # # # # # 
+                                                        ^
+Stan tasmy: b b b b b b b b b b b b b b b b b b a a c c c c c c c c c c c c c c c c c c # # # # # # # # # # # # # # # # # # # # # # # # # # 
+                                                      ^
+Stan tasmy: b b b b b b b b b b b b b b b b b b a a c c c c c c c c c c c c c c c c c c # # # # # # # # # # # # # # # # # # # # # # # # # # 
+                                                    ^
+Stan tasmy: b b b b b b b b b b b b b b b b b b a a c c c c c c c c c c c c c c c c c c # # # # # # # # # # # # # # # # # # # # # # # # # # 
+                                                  ^
+Stan tasmy: b b b b b b b b b b b b b b b b b b a a c c c c c c c c c c c c c c c c c c # # # # # # # # # # # # # # # # # # # # # # # # # # 
+                                                ^
+Stan tasmy: b b b b b b b b b b b b b b b b b b a a c c c c c c c c c c c c c c c c c c # # # # # # # # # # # # # # # # # # # # # # # # # # 
+                                              ^
+Stan tasmy: b b b b b b b b b b b b b b b b b b a a c c c c c c c c c c c c c c c c c c # # # # # # # # # # # # # # # # # # # # # # # # # # 
+                                                ^
+Stan tasmy: b b b b b b b b b b b b b b b b b b b a c c c c c c c c c c c c c c c c c c # # # # # # # # # # # # # # # # # # # # # # # # # # 
+                                                  ^
+Stan tasmy: b b b b b b b b b b b b b b b b b b b a c c c c c c c c c c c c c c c c c c # # # # # # # # # # # # # # # # # # # # # # # # # # 
+                                                    ^
+Stan tasmy: b b b b b b b b b b b b b b b b b b b a c c c c c c c c c c c c c c c c c c # # # # # # # # # # # # # # # # # # # # # # # # # # 
+                                                      ^
+Stan tasmy: b b b b b b b b b b b b b b b b b b b a c c c c c c c c c c c c c c c c c c # # # # # # # # # # # # # # # # # # # # # # # # # # 
+                                                        ^
+Stan tasmy: b b b b b b b b b b b b b b b b b b b a c c c c c c c c c c c c c c c c c c # # # # # # # # # # # # # # # # # # # # # # # # # # 
+                                                          ^
+Stan tasmy: b b b b b b b b b b b b b b b b b b b a c c c c c c c c c c c c c c c c c c # # # # # # # # # # # # # # # # # # # # # # # # # # 
+                                                            ^
+Stan tasmy: b b b b b b b b b b b b b b b b b b b a c c c c c c c c c c c c c c c c c c # # # # # # # # # # # # # # # # # # # # # # # # # # 
+                                                              ^
+Stan tasmy: b b b b b b b b b b b b b b b b b b b a c c c c c c c c c c c c c c c c c c # # # # # # # # # # # # # # # # # # # # # # # # # # 
+                                                                ^
+Stan tasmy: b b b b b b b b b b b b b b b b b b b a c c c c c c c c c c c c c c c c c c # # # # # # # # # # # # # # # # # # # # # # # # # # 
+                                                                  ^
+Stan tasmy: b b b b b b b b b b b b b b b b b b b a c c c c c c c c c c c c c c c c c c # # # # # # # # # # # # # # # # # # # # # # # # # # 
+                                                                    ^
+Stan tasmy: b b b b b b b b b b b b b b b b b b b a c c c c c c c c c c c c c c c c c c # # # # # # # # # # # # # # # # # # # # # # # # # # 
+                                                                      ^
+Stan tasmy: b b b b b b b b b b b b b b b b b b b a c c c c c c c c c c c c c c c c c c # # # # # # # # # # # # # # # # # # # # # # # # # # 
+                                                                        ^
+Stan tasmy: b b b b b b b b b b b b b b b b b b b a c c c c c c c c c c c c c c c c c c # # # # # # # # # # # # # # # # # # # # # # # # # # 
+                                                                          ^
+Stan tasmy: b b b b b b b b b b b b b b b b b b b a c c c c c c c c c c c c c c c c c c # # # # # # # # # # # # # # # # # # # # # # # # # # 
+                                                                            ^
+Stan tasmy: b b b b b b b b b b b b b b b b b b b a c c c c c c c c c c c c c c c c c c # # # # # # # # # # # # # # # # # # # # # # # # # # 
+                                                                              ^
+Stan tasmy: b b b b b b b b b b b b b b b b b b b a c c c c c c c c c c c c c c c c c c # # # # # # # # # # # # # # # # # # # # # # # # # # 
+                                                                                ^
+Stan tasmy: b b b b b b b b b b b b b b b b b b b a c c c c c c c c c c c c c c c c c c # # # # # # # # # # # # # # # # # # # # # # # # # # 
+                                                                                  ^
+Stan tasmy: b b b b b b b b b b b b b b b b b b b a c c c c c c c c c c c c c c c c c c # # # # # # # # # # # # # # # # # # # # # # # # # # 
+                                                                                    ^
+Stan tasmy: b b b b b b b b b b b b b b b b b b b a c c c c c c c c c c c c c c c c c c # # # # # # # # # # # # # # # # # # # # # # # # # # 
+                                                                                      ^
+Stan tasmy: b b b b b b b b b b b b b b b b b b b a c c c c c c c c c c c c c c c c c c # # # # # # # # # # # # # # # # # # # # # # # # # # 
+                                                                                        ^
+Stan tasmy: b b b b b b b b b b b b b b b b b b b a c c c c c c c c c c c c c c c c c c c # # # # # # # # # # # # # # # # # # # # # # # # # 
+                                                                                      ^
+Stan tasmy: b b b b b b b b b b b b b b b b b b b a c c c c c c c c c c c c c c c c c c c # # # # # # # # # # # # # # # # # # # # # # # # # 
+                                                                                    ^
+Stan tasmy: b b b b b b b b b b b b b b b b b b b a c c c c c c c c c c c c c c c c c c c # # # # # # # # # # # # # # # # # # # # # # # # # 
+                                                                                  ^
+Stan tasmy: b b b b b b b b b b b b b b b b b b b a c c c c c c c c c c c c c c c c c c c # # # # # # # # # # # # # # # # # # # # # # # # # 
+                                                                                ^
+Stan tasmy: b b b b b b b b b b b b b b b b b b b a c c c c c c c c c c c c c c c c c c c # # # # # # # # # # # # # # # # # # # # # # # # # 
+                                                                              ^
+Stan tasmy: b b b b b b b b b b b b b b b b b b b a c c c c c c c c c c c c c c c c c c c # # # # # # # # # # # # # # # # # # # # # # # # # 
+                                                                            ^
+Stan tasmy: b b b b b b b b b b b b b b b b b b b a c c c c c c c c c c c c c c c c c c c # # # # # # # # # # # # # # # # # # # # # # # # # 
+                                                                          ^
+Stan tasmy: b b b b b b b b b b b b b b b b b b b a c c c c c c c c c c c c c c c c c c c # # # # # # # # # # # # # # # # # # # # # # # # # 
+                                                                        ^
+Stan tasmy: b b b b b b b b b b b b b b b b b b b a c c c c c c c c c c c c c c c c c c c # # # # # # # # # # # # # # # # # # # # # # # # # 
+                                                                      ^
+Stan tasmy: b b b b b b b b b b b b b b b b b b b a c c c c c c c c c c c c c c c c c c c # # # # # # # # # # # # # # # # # # # # # # # # # 
+                                                                    ^
+Stan tasmy: b b b b b b b b b b b b b b b b b b b a c c c c c c c c c c c c c c c c c c c # # # # # # # # # # # # # # # # # # # # # # # # # 
+                                                                  ^
+Stan tasmy: b b b b b b b b b b b b b b b b b b b a c c c c c c c c c c c c c c c c c c c # # # # # # # # # # # # # # # # # # # # # # # # # 
+                                                                ^
+Stan tasmy: b b b b b b b b b b b b b b b b b b b a c c c c c c c c c c c c c c c c c c c # # # # # # # # # # # # # # # # # # # # # # # # # 
+                                                              ^
+Stan tasmy: b b b b b b b b b b b b b b b b b b b a c c c c c c c c c c c c c c c c c c c # # # # # # # # # # # # # # # # # # # # # # # # # 
+                                                            ^
+Stan tasmy: b b b b b b b b b b b b b b b b b b b a c c c c c c c c c c c c c c c c c c c # # # # # # # # # # # # # # # # # # # # # # # # # 
+                                                          ^
+Stan tasmy: b b b b b b b b b b b b b b b b b b b a c c c c c c c c c c c c c c c c c c c # # # # # # # # # # # # # # # # # # # # # # # # # 
+                                                        ^
+Stan tasmy: b b b b b b b b b b b b b b b b b b b a c c c c c c c c c c c c c c c c c c c # # # # # # # # # # # # # # # # # # # # # # # # # 
+                                                      ^
+Stan tasmy: b b b b b b b b b b b b b b b b b b b a c c c c c c c c c c c c c c c c c c c # # # # # # # # # # # # # # # # # # # # # # # # # 
+                                                    ^
+Stan tasmy: b b b b b b b b b b b b b b b b b b b a c c c c c c c c c c c c c c c c c c c # # # # # # # # # # # # # # # # # # # # # # # # # 
+                                                  ^
+Stan tasmy: b b b b b b b b b b b b b b b b b b b a c c c c c c c c c c c c c c c c c c c # # # # # # # # # # # # # # # # # # # # # # # # # 
+                                                ^
+Stan tasmy: b b b b b b b b b b b b b b b b b b b a c c c c c c c c c c c c c c c c c c c # # # # # # # # # # # # # # # # # # # # # # # # # 
+                                                  ^
+Stan tasmy: b b b b b b b b b b b b b b b b b b b b c c c c c c c c c c c c c c c c c c c # # # # # # # # # # # # # # # # # # # # # # # # # 
+                                                    ^
+Stan tasmy: b b b b b b b b b b b b b b b b b b b b c c c c c c c c c c c c c c c c c c c # # # # # # # # # # # # # # # # # # # # # # # # # 
+                                                      ^
+Stan tasmy: b b b b b b b b b b b b b b b b b b b b c c c c c c c c c c c c c c c c c c c # # # # # # # # # # # # # # # # # # # # # # # # # 
+                                                        ^
+Stan tasmy: b b b b b b b b b b b b b b b b b b b b c c c c c c c c c c c c c c c c c c c # # # # # # # # # # # # # # # # # # # # # # # # # 
+                                                          ^
+Stan tasmy: b b b b b b b b b b b b b b b b b b b b c c c c c c c c c c c c c c c c c c c # # # # # # # # # # # # # # # # # # # # # # # # # 
+                                                            ^
+Stan tasmy: b b b b b b b b b b b b b b b b b b b b c c c c c c c c c c c c c c c c c c c # # # # # # # # # # # # # # # # # # # # # # # # # 
+                                                              ^
+Stan tasmy: b b b b b b b b b b b b b b b b b b b b c c c c c c c c c c c c c c c c c c c # # # # # # # # # # # # # # # # # # # # # # # # # 
+                                                                ^
+Stan tasmy: b b b b b b b b b b b b b b b b b b b b c c c c c c c c c c c c c c c c c c c # # # # # # # # # # # # # # # # # # # # # # # # # 
+                                                                  ^
+Stan tasmy: b b b b b b b b b b b b b b b b b b b b c c c c c c c c c c c c c c c c c c c # # # # # # # # # # # # # # # # # # # # # # # # # 
+                                                                    ^
+Stan tasmy: b b b b b b b b b b b b b b b b b b b b c c c c c c c c c c c c c c c c c c c # # # # # # # # # # # # # # # # # # # # # # # # # 
+                                                                      ^
+Stan tasmy: b b b b b b b b b b b b b b b b b b b b c c c c c c c c c c c c c c c c c c c # # # # # # # # # # # # # # # # # # # # # # # # # 
+                                                                        ^
+Stan tasmy: b b b b b b b b b b b b b b b b b b b b c c c c c c c c c c c c c c c c c c c # # # # # # # # # # # # # # # # # # # # # # # # # 
+                                                                          ^
+Stan tasmy: b b b b b b b b b b b b b b b b b b b b c c c c c c c c c c c c c c c c c c c # # # # # # # # # # # # # # # # # # # # # # # # # 
+                                                                            ^
+Stan tasmy: b b b b b b b b b b b b b b b b b b b b c c c c c c c c c c c c c c c c c c c # # # # # # # # # # # # # # # # # # # # # # # # # 
+                                                                              ^
+Stan tasmy: b b b b b b b b b b b b b b b b b b b b c c c c c c c c c c c c c c c c c c c # # # # # # # # # # # # # # # # # # # # # # # # # 
+                                                                                ^
+Stan tasmy: b b b b b b b b b b b b b b b b b b b b c c c c c c c c c c c c c c c c c c c # # # # # # # # # # # # # # # # # # # # # # # # # 
+                                                                                  ^
+Stan tasmy: b b b b b b b b b b b b b b b b b b b b c c c c c c c c c c c c c c c c c c c # # # # # # # # # # # # # # # # # # # # # # # # # 
+                                                                                    ^
+Stan tasmy: b b b b b b b b b b b b b b b b b b b b c c c c c c c c c c c c c c c c c c c # # # # # # # # # # # # # # # # # # # # # # # # # 
+                                                                                      ^
+Stan tasmy: b b b b b b b b b b b b b b b b b b b b c c c c c c c c c c c c c c c c c c c # # # # # # # # # # # # # # # # # # # # # # # # # 
+                                                                                        ^
+Stan tasmy: b b b b b b b b b b b b b b b b b b b b c c c c c c c c c c c c c c c c c c c # # # # # # # # # # # # # # # # # # # # # # # # # 
+                                                                                          ^
+Stan tasmy: b b b b b b b b b b b b b b b b b b b b c c c c c c c c c c c c c c c c c c c c # # # # # # # # # # # # # # # # # # # # # # # # 
+                                                                                        ^
+Stan tasmy: b b b b b b b b b b b b b b b b b b b b c c c c c c c c c c c c c c c c c c c c # # # # # # # # # # # # # # # # # # # # # # # # 
+                                                                                      ^
+Stan tasmy: b b b b b b b b b b b b b b b b b b b b c c c c c c c c c c c c c c c c c c c c # # # # # # # # # # # # # # # # # # # # # # # # 
+                                                                                    ^
+Stan tasmy: b b b b b b b b b b b b b b b b b b b b c c c c c c c c c c c c c c c c c c c c # # # # # # # # # # # # # # # # # # # # # # # # 
+                                                                                  ^
+Stan tasmy: b b b b b b b b b b b b b b b b b b b b c c c c c c c c c c c c c c c c c c c c # # # # # # # # # # # # # # # # # # # # # # # # 
+                                                                                ^
+Stan tasmy: b b b b b b b b b b b b b b b b b b b b c c c c c c c c c c c c c c c c c c c c # # # # # # # # # # # # # # # # # # # # # # # # 
+                                                                              ^
+Stan tasmy: b b b b b b b b b b b b b b b b b b b b c c c c c c c c c c c c c c c c c c c c # # # # # # # # # # # # # # # # # # # # # # # # 
+                                                                            ^
+Stan tasmy: b b b b b b b b b b b b b b b b b b b b c c c c c c c c c c c c c c c c c c c c # # # # # # # # # # # # # # # # # # # # # # # # 
+                                                                          ^
+Stan tasmy: b b b b b b b b b b b b b b b b b b b b c c c c c c c c c c c c c c c c c c c c # # # # # # # # # # # # # # # # # # # # # # # # 
+                                                                        ^
+Stan tasmy: b b b b b b b b b b b b b b b b b b b b c c c c c c c c c c c c c c c c c c c c # # # # # # # # # # # # # # # # # # # # # # # # 
+                                                                      ^
+Stan tasmy: b b b b b b b b b b b b b b b b b b b b c c c c c c c c c c c c c c c c c c c c # # # # # # # # # # # # # # # # # # # # # # # # 
+                                                                    ^
+Stan tasmy: b b b b b b b b b b b b b b b b b b b b c c c c c c c c c c c c c c c c c c c c # # # # # # # # # # # # # # # # # # # # # # # # 
+                                                                  ^
+Stan tasmy: b b b b b b b b b b b b b b b b b b b b c c c c c c c c c c c c c c c c c c c c # # # # # # # # # # # # # # # # # # # # # # # # 
+                                                                ^
+Stan tasmy: b b b b b b b b b b b b b b b b b b b b c c c c c c c c c c c c c c c c c c c c # # # # # # # # # # # # # # # # # # # # # # # # 
+                                                              ^
+Stan tasmy: b b b b b b b b b b b b b b b b b b b b c c c c c c c c c c c c c c c c c c c c # # # # # # # # # # # # # # # # # # # # # # # # 
+                                                            ^
+Stan tasmy: b b b b b b b b b b b b b b b b b b b b c c c c c c c c c c c c c c c c c c c c # # # # # # # # # # # # # # # # # # # # # # # # 
+                                                          ^
+Stan tasmy: b b b b b b b b b b b b b b b b b b b b c c c c c c c c c c c c c c c c c c c c # # # # # # # # # # # # # # # # # # # # # # # # 
+                                                        ^
+Stan tasmy: b b b b b b b b b b b b b b b b b b b b c c c c c c c c c c c c c c c c c c c c # # # # # # # # # # # # # # # # # # # # # # # # 
+                                                      ^
+Stan tasmy: b b b b b b b b b b b b b b b b b b b b c c c c c c c c c c c c c c c c c c c c # # # # # # # # # # # # # # # # # # # # # # # # 
+                                                    ^
+Stan tasmy: b b b b b b b b b b b b b b b b b b b b c c c c c c c c c c c c c c c c c c c c # # # # # # # # # # # # # # # # # # # # # # # # 
+                                                  ^
+Stan tasmy: b b b b b b b b b b b b b b b b b b b b c c c c c c c c c c c c c c c c c c c c # # # # # # # # # # # # # # # # # # # # # # # # 
+                                                    ^
+Stan tasmy: b b b b b b b b b b b b b b b b b b b b c c c c c c c c c c c c c c c c c c c c # # # # # # # # # # # # # # # # # # # # # # # # 
+                                                  ^
+Slowo poczatkowe: a a a a a a a a a a a a a a a a a a a a 
+Slowo obliczone: b b b b b b b b b b b b b b b b b b b b c c c c c c c c c c c c c c c c c c c c # # # # # # # # # # # # # # # # # # # # # # # # 
