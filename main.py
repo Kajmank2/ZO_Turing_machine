@@ -14,6 +14,7 @@ def parseFile(filename):
     global LimitException #odwolanie do Limit Exception
     with open(filename, 'r') as f:
         lines = f.readlines()
+        table = []
         for i, line in enumerate(lines):
             if line.startswith("alfabet tasmowy:"):
                 try:
@@ -58,13 +59,14 @@ def parseFile(filename):
                     relations = {}
                     for relation in lines[i + 1::]:
                         relation = relation.split()
+                        table.append(relation[1])
                         relations[(relation[0], relation[1])] = relation[2::]
                 except:
                     print('Problem ze wczytaniem stanu akceptujacego, Prosze popraw plik')
-    return alphabet, input_alphabet, input, states, begin_state, accept_states, relations
+    return alphabet, input_alphabet, input, states, begin_state, accept_states, relations, table
 
 
-alphabet, input_alphabet, init_input, states, begin_state, accept_states, relations = parseFile('file.txt')
+alphabet, input_alphabet, init_input, states, begin_state, accept_states, relations, table = parseFile('in.txt')
 if(LimitException>0): #IF to help detect bad value
     print('LimitException')
     print('Nacinij dowolny klawisz...')
@@ -77,6 +79,12 @@ printTape(tape, pointer)
 print("Aby przejsc do kolejnego kroku wcisnij enter, aby przejsc do konca obliczen wprowadz 's'")
 skip = False
 while state not in accept_states:
+    a1= set(alphabet)
+    a2= set(table)
+    if a2.difference(a1):
+        print('Brak znaku w alfabecie tasmowym')
+        print(a2.difference(a1))
+        sys.exit()
     if not skip:
         c = input()
         if c == 's':
@@ -88,7 +96,6 @@ while state not in accept_states:
     except:
         print('Nierozpoznana relacja przejscia, sprawdz swoj plik wejsciowy jescze raz')
         input()
-        sys.exit()
     if dir == 'P':
         if pointer == len(tape) - 1:
             print("Nastepuje rozszerzenie tasmy w prawo")
@@ -112,3 +119,5 @@ for element in tape:
 print()
 #Jesli wszystko Ok wczytujemy funkcje i zapisujemy do pliku out.txt
 main_txt.main_txts()
+input()
+sys.exit()

@@ -3,9 +3,9 @@ abc#
 alfabet wejsciowy:
 a
 slowo wejsciowe:
-aaaaaaaaaa
+aaaaaaaaaaaaaaaaaaaa
 stany:
-1 2 3 4 
+1 2 3 4
 stan poczatkowy:
 1
 stany akceptujace:

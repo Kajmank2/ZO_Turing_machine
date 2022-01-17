@@ -30,7 +30,7 @@ def main_txts():
         return alphabet, input_alphabet, input, states, begin_state, accept_states, relations
 
     sys.stdout = open("out.txt", "w")
-    alphabet, input_alphabet, init_input, states, begin_state, accept_states, relations = parseFile('file.txt')
+    alphabet, input_alphabet, init_input, states, begin_state, accept_states, relations = parseFile('in.txt')
     tape = init_input + (['#'] * (32 - len(init_input)))
     pointer = 0
     state = begin_state
